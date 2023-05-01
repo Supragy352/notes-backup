@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Things",
+  "translucency": false,
+  "baseFontSize": 18,
+  "textFontFamily": "",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "image-adjustments",
+    "callout"
+  ],
+  "accentColor": ""
+}

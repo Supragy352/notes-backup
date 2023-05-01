@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ],
+  "showUnsupportedFiles": true,
+  "readableLineLength": false
+}

@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "f8d5c6aa67777601",
+    "type": "split",
+    "children": [
+      {
+        "id": "de4da70efb6bc67a",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Long Term To Do List.md"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "42a60765fb15609a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/Game Dev/Content/Youtube/Sebastian Lague/GameDevYTSL2.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad62275f718ef505",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f446db44f7b6729",
+        "type": "tabs",
+        "dimension": 74.73002159827215,
+        "children": [
+          {
+            "id": "44f27c26a1ecbd8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb61dee181086693",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5a0cdba145ec725",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d29a111948921d3b",
+        "type": "tabs",
+        "dimension": 25.26997840172786,
+        "children": [
+          {
+            "id": "dba2da513f27be77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Game Dev/Content/Youtube/Sebastian Lague/GameDevYTSL2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8eaed0b7b6a8660",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Game Dev/Content/Youtube/Sebastian Lague/GameDevYTSL2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "e2955500816bf9db",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e7437c8dd9a76a9",
+        "type": "tabs",
+        "dimension": 31.954022988505745,
+        "children": [
+          {
+            "id": "c4d752339eb60f5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Game Dev/Content/Youtube/Sebastian Lague/GameDevYTSL2.md"
+              }
+            }
+          },
+          {
+            "id": "7392b1586925f4b2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d046febee4b70adc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b479e2e91a50847d",
+        "type": "tabs",
+        "dimension": 41.60919540229886,
+        "children": [
+          {
+            "id": "f8f5295910522eb2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "af641c37cf467e3e",
+        "type": "tabs",
+        "dimension": 26.4367816091954,
+        "children": [
+          {
+            "id": "11f3d6275b2f0e18",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Computer Science/Game Dev/Content/Youtube/Sebastian Lague/GameDevYTSL2.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#gamedev",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14734418
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.5,
+                  "nodeSizeMultiplier": 1.066,
+                  "lineSizeMultiplier": 2.214,
+                  "collapse-forces": true,
+                  "centerStrength": 0.625714285714286,
+                  "repelStrength": 16.6285714285714,
+                  "linkStrength": 0.951428571428571,
+                  "linkDistance": 289,
+                  "scale": 0.23152827722148797,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "active": "42a60765fb15609a",
+  "lastOpenFiles": [
+    "Daily Notes/20-10-2022 Thursday.md",
+    "Long Term To Do List.md",
+    "Daily Notes/30-09-2022 Friday.md",
+    "Daily Notes/27-09-2022 Tuesday.md",
+    "Daily Notes/26-09-2022 Monday.md",
+    "#templates/ContentYT (Random, Single).md",
+    "Daily Notes/youtube.md",
+    "Daily Notes/02-09-2022 Friday.md",
+    "Computer Science/Game Dev/Content/Youtube/Sebastian Lague/GameDevYTSL3.md",
+    "Computer Science/Software/Linux.md"
+  ]
+}

@@ -1,0 +1,3 @@
+![[Pasted image 20220824043232.png|center]]
+
+Raylib (officially *raylib*) is a [[Cross-Platform|cross-platform]] [[Open-Source|open source]] software development library. It is written in [[C]] . The library is highly inspired by the [Borland BGI graphics library](https://en.wikipedia.org/wiki/Borland_Graphics_Interface "Borland Graphics Interface") and by the [XNA framework](https://en.wikipedia.org/wiki/Microsoft_XNA "Microsoft XNA") and it is designed to be well suited for prototyping, tooling, graphical applications, embedded systems and education. It is built on top of [[OpenGL]]. 

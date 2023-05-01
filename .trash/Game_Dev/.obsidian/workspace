@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "989a9eb277cc4b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef876a0432b21f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Content/Youtube/GameDevYTSL2.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b6184a883ddab39",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea3340bbbb7f2ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46b15cf1ff4fd562",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29f826e1be6e1a17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d326b2e84ab493ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6ca3e57a46e1e21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Content/Youtube/GameDevYTSL2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f95ebfb0713e3a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Content/Youtube/GameDevYTSL2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205.5
+  },
+  "right": {
+    "id": "34d33c1e191bfffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f43887e5db574c",
+        "type": "tabs",
+        "dimension": 33.222591362126245,
+        "children": [
+          {
+            "id": "ff26b024a9338e25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Content/Youtube/GameDevYTSL2.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "81e68ebda8d934dc",
+        "type": "tabs",
+        "dimension": 66.77740863787375,
+        "children": [
+          {
+            "id": "217a09e2bf466254",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Content/Youtube/GameDevYTSL2.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#YTSLGD",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3669760
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.740988372093023,
+                  "lineSizeMultiplier": 2.4218023255814,
+                  "collapse-forces": true,
+                  "centerStrength": 0.578488372093023,
+                  "repelStrength": 7.96511627906977,
+                  "linkStrength": 0.51453488372093,
+                  "linkDistance": 261,
+                  "scale": 0.7132754626224438,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "active": "3ef876a0432b21f6",
+  "lastOpenFiles": [
+    "Content/Youtube/GameDevYTSL2.md",
+    "Programming Concepts/Instance.md",
+    "Content/Youtube/Untitled.md",
+    "Authors/Sebastian Lague.md",
+    "Content/Youtube/GameDevYTSL1.md",
+    "Content/Youtube/GameDevYTSL3.md",
+    "Content/Youtube/GameDevYTSL0.md",
+    "Programming Concepts/Composition.md",
+    "Programming Concepts/Inheritance.md",
+    "Content/Youtube/dytrh.md"
+  ]
+}

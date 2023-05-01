@@ -1,0 +1,18 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false,
+  "trashOption": "local",
+  "lineWrap": true,
+  "showFrontmatter": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "todoPageName": "todo\ndl",
+  "showChecked": true,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "Daily Notes/19-08-2022 Friday.md",
+    "Daily Notes/21-08-2022 Sunday.md",
+    "Daily Notes/22-08-2022 Monday.md",
+    "#templates/ToDo.md",
+    "Daily Notes/23-08-2022 Tuesday.md",
+    "#templates/Daily Note.md",
+    "Daily Notes/16-09-2022 Friday.md",
+    "Daily Notes/31-08-2022 Wednesday.md",
+    "Daily Notes/30-09-2022 Friday.md",
+    "Daily Notes/30-08-2022 Tuesday.md",
+    "Daily Notes/29-08-2022 Monday.md",
+    "Daily Notes/28-08-2022 Sunday.md",
+    "Daily Notes/27-08-2022 Saturday.md"
+  ],
+  "_hiddenTags": [
+    "todo"
+  ]
+}

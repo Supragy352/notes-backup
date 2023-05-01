@@ -1,0 +1,32 @@
+# Audio and Video
+*.aac
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.ogg
+*.flac
+*.webm
+*.mkv
+*.avi
+# Image
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+# Ignore media files
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.bmp
+*.mp4
+*.mov
+*.avi
+

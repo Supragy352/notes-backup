@@ -1,0 +1,103 @@
+{
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "daily-notes": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ],
+  "starred:star-current-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "app:open-help": [],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
+  ],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll-zen": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F11"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ]
+}
