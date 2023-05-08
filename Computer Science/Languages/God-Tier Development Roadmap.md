@@ -15,7 +15,7 @@ Basically a video describing all types of programming languages and what you can
 ## Tier-1
 Designed to make programming as easy as possible.
 
-### Scratch
+### Scratch}}
 ![[Pasted image 20220831020502.png]]
 MIT 2003
 ![[Pasted image 20220831015937.png]]

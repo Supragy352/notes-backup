@@ -13,7 +13,7 @@
 
 
 #### Footers, Tags and Links
-- Tags: #dailynote #maths #german #physics #code #sanskrit #chemistry #creative
+- Tags: #dailynote       #creative
 - Links: 
 
 [^1]:

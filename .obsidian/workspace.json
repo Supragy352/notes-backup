@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31b9885b67e1038a",
+        "id": "0c198d47c0ac1018",
         "type": "tabs",
         "children": [
           {
-            "id": "ab7746cf069e55bc",
+            "id": "7185961bbb7e1779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/01-05-2023 Monday.md",
+                "file": "Daily Notes/06-05-2023 Saturday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,19 +21,33 @@
             }
           },
           {
-            "id": "1598f694bd0851aa",
+            "id": "f2e8eba56d19f498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Hugging Face.md",
+                "file": "Daily Notes/Typewriter.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ea4929b5c14ce97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Software/Operating Systems/Fedora 38.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,6 +93,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5f7caf0d862ec2ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -93,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/01-05-2023 Monday.md",
+                "file": "Daily Notes/Typewriter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/01-05-2023 Monday.md",
+                "file": "Daily Notes/Typewriter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/01-05-2023 Monday.md"
+                "file": "Daily Notes/Typewriter.md"
               }
             }
           },
@@ -149,9 +170,16 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "ebfde8f6b4280366",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b479e2e91a50847d",
@@ -179,11 +207,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/01-05-2023 Monday.md",
+                "file": "Daily Notes/Typewriter.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -200,17 +228,17 @@
                       }
                     }
                   ],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": -0.5,
                   "nodeSizeMultiplier": 1.066,
-                  "lineSizeMultiplier": 2.214,
-                  "collapse-forces": true,
-                  "centerStrength": 0.794797687861272,
+                  "lineSizeMultiplier": 1.65677083333333,
+                  "collapse-forces": false,
+                  "centerStrength": 0.442708333333333,
                   "repelStrength": 16.6285714285714,
-                  "linkStrength": 0.951428571428571,
-                  "linkDistance": 289,
-                  "scale": 0.18607071319377452,
+                  "linkStrength": 1,
+                  "linkDistance": 214,
+                  "scale": 0.22298680315945651,
                   "close": true
                 }
               }
@@ -224,9 +252,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create Notion-Like table": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -237,57 +262,61 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-camera:Obsidian Camera": false
+      "obsidian-camera:Obsidian Camera": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "notion-like-tables:Create Notion-Like table": false
     }
   },
-  "active": "44f27c26a1ecbd8a",
+  "active": "f2e8eba56d19f498",
   "lastOpenFiles": [
-    "notes-backup",
-    "Daily Notes/01-05-2023 Monday.md",
-    "Daily Notes/Hugging Face.md",
-    "Daily Notes/30-04-2023 Sunday.md",
-    "Daily Notes/25-04-2023 Tuesday.md",
-    "Daily Notes/23-04-2023 Sunday.md",
+    "Daily Notes/06-05-2023 Saturday.md",
+    "Daily Notes/Movie Ratings.md",
+    "Computer Science/Software/Operating Systems/Fedora 38.md",
+    "Daily Notes/Typewriter.md",
+    "Daily Notes/Castlevania.md",
+    "Daily Notes/Ninja Gaiden Black.md",
+    "Daily Notes/Resident Evil 7.md",
+    "Daily Notes/Killer 7.md",
+    "Daily Notes/Hi-Fi Rush.md",
+    "Daily Notes/Devil May Cry 4.md",
+    "Daily Notes/Max Payne 3.md",
+    "Daily Notes/Bayonetta.md",
+    "Daily Notes/Batman Arkham Knight.md",
+    "Daily Notes/Dead Space Remake.md",
+    "Daily Notes/God of War Ragnarok.md",
+    "Daily Notes/07-05-2023 Sunday.md",
+    "Daily Notes/08-05-2023 Monday.md",
+    "Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md",
+    "Daily Notes/aarthificial.md",
+    "Daily Notes/Gameranx.md",
+    "Computer Science/Software/Operating Systems/Linux.md",
+    "Computer Science/Software/Untitled",
+    "Computer Science/Software/Version Control Systems (VCS)",
+    "Computer Science/Software/Operating Systems",
+    "Computer Science/Gaming/Ubisoft Forward 2022.md",
+    "Computer Science/Gaming",
+    "Computer Science/Software/Version Control Systems (VCS)/Git.md",
+    "Computer Science/Software/Games/Untitled",
+    "books.md",
+    "Computer Science/Languages/God-Tier Development Roadmap.md",
+    "Computer Science/Languages/C++/C++.md",
+    "Computer Science/Languages/C++",
+    "Computer Science/Languages/C++/C++ Compiler Process.canvas",
+    "Untitled.table",
+    "Computer Science/AI/attachments/Pasted image 20230503110300.png",
+    "Computer Science/AI/attachments/Pasted image 20230503110129.png",
+    "Computer Science/AI/attachments",
+    "Computer Science/AI",
+    "Computer Science/New folder",
+    "Daily Notes/attachments/Pasted image 20230501155634.png",
+    "Daily Notes/attachments/Pasted image 20230501154551.png",
     "Daily Notes/attachments/Pasted image 20230423133848.png",
     "Daily Notes/attachments/Screenshot (86).png",
-    "Games/Indie Playing List.md",
-    "Daily Notes/22-04-2023 Saturday.md",
     "Games/attachments/Pasted image 20230422215749.png",
     "Games/attachments/Pasted image 20230422215651.png",
-    "Daily Notes/18-04-2023 Tuesday.md",
-    "Daily Notes/17-04-2023 Monday.md",
-    "Excalidraw/Drawing 2023-04-17 15.17.41.excalidraw.md",
     "Games/attachments/Pasted image 20230417134303.png",
     "Games/attachments/Pasted image 20230417134016.png",
-    "Games/attachments/Pasted image 20230417133751.png",
-    "Games/attachments/Pasted image 20230417133605.png",
-    "Games/attachments/Pasted image 20230417133330.png",
-    "Games/attachments/Pasted image 20230417133221.png",
-    "Games/Untitled.md",
-    "Daily Notes/16-04-2023 Sunday.md",
-    "#templates/Daily Note.md",
-    "#templates/Date (No Spaces).md",
-    "Games/attachments",
-    "Games",
-    "Daily Notes/V69.md",
-    "Daily Notes/16-09-2022 Friday.md",
-    "Daily Notes/17-09-2022 Saturday.md",
-    "Daily Notes/18-09-2022 Sunday.md",
-    "Daily Notes/19-09-2022 Monday.md",
-    "Daily Notes/21-09-2022 Wednesday.md",
-    "Daily Notes/22-09-2022 Thursday.md",
-    "Daily Notes/30-09-2022 Friday.md",
-    "Daily Notes/20-10-2022 Thursday.md",
-    "Daily Notes/02-11-2022 Wednesday.md",
-    "Daily Notes/11-11-2022 Friday.md",
-    "Mathematics/Linear Algebra",
-    "Computer Science/Computational Programming",
-    "Roadmap/Programming Roadmap.canvas",
-    "#templates/attachments/Recording 20230416071533.webm",
-    "#templates/attachments",
-    "#templates",
-    "templates/attachments/Recording 20230416071533.webm",
-    "templates/attachments",
-    "templates"
+    "Roadmap/Programming Roadmap.canvas"
   ]
 }

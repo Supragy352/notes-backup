@@ -14,7 +14,7 @@
 **NOTE:** Adding touch type practice to actually make notes while listening.
 
 #### Footers, Tags and Links
-- Tags: #dailynote #maths #german #physics #code #sanskrit #chemistry
+- Tags: #dailynote      
 - Links: 
 
 [^1]:

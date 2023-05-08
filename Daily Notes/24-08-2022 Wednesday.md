@@ -11,7 +11,7 @@
 - [ ] Draw a Sketch
 
 #### Footers, Tags and Links
-- Tags: #dailynote #maths #german #physics #code #sanskrit #instagram #creative
+- Tags: #dailynote      #instagram #creative
 - Links: 
 
 [^1]:  Use `ffmpeg -i Video.mkv -codec copy Video.mp4`

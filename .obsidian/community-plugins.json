@@ -4,7 +4,6 @@
   "obsidian-tabs",
   "table-editor-obsidian",
   "better-word-count",
-  "obsidian-git",
   "cm-editor-syntax-highlight-obsidian",
   "better-fn",
   "obsidian-checklist-plugin",
@@ -19,5 +18,6 @@
   "optimize-canvas-connections",
   "obsidian-icons-plugin",
   "convert-url-to-iframe",
-  "obsidian-banners"
+  "obsidian-banners",
+  "obsidian-git"
 ]

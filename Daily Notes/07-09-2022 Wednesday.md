@@ -13,7 +13,7 @@
 
 
 #### Footers, Tags and Links
-- Tags: #dailynote #maths #german #physics #code #sanskrit #chemistry
+- Tags: #dailynote 
 - Links:  A blog post with answer to keep the PS window open [^1]
 
 [^1]:https://blog.danskingdom.com/keep-powershell-console-window-open-after-script-finishes-running/

@@ -1,0 +1,10 @@
+# Daily Note for 01-May '23
+
+#todo
+- [ ] [[Hugging Face]] [^1]
+
+#### Footers, Tags and Links
+- Tags: #dailynote #code
+- Links: Hugging Face
+
+[^1]:https://huggingface.co
