@@ -1,6 +1,19 @@
 {
 	"nodes":[
-		{"id":"cffd9d2c088badd5","x":-382,"y":-263,"width":242,"height":60,"type":"text","text":"Programming Roadmap"}
+		{"type":"text","text":"Programming Roadmap","id":"cffd9d2c088badd5","x":-760,"y":-200,"width":242,"height":60},
+		{"id":"3c3a4c9513319f87","x":-1120,"y":920,"width":560,"height":580,"type":"file","file":"Computer Science/Languages/C.md"},
+		{"type":"text","text":"C","id":"b6a5b5832d04fbb7","x":-860,"y":120,"width":250,"height":60},
+		{"type":"text","text":"C#","id":"9a1da286a943643b","x":-20,"y":-360,"width":250,"height":60},
+		{"type":"text","text":"C++","id":"ffbda1a204e0a308","x":-889,"y":-820,"width":250,"height":60},
+		{"type":"file","file":"Computer Science/Languages/C++/C++.md","id":"e64e1b0a9e54f83a","x":-918,"y":-1840,"width":400,"height":400},
+		{"type":"text","text":"Python","id":"d4d8eace2b600050","x":-160,"y":100,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"168ae88995f15df5","fromNode":"cffd9d2c088badd5","fromSide":"top","toNode":"ffbda1a204e0a308","toSide":"bottom"},
+		{"id":"21d99d30bd6392ab","fromNode":"cffd9d2c088badd5","fromSide":"right","toNode":"9a1da286a943643b","toSide":"left"},
+		{"id":"b94cc54cc9aa0c35","fromNode":"cffd9d2c088badd5","fromSide":"right","toNode":"d4d8eace2b600050","toSide":"left"},
+		{"id":"7f8fa7a6060b6e7f","fromNode":"ffbda1a204e0a308","fromSide":"top","toNode":"e64e1b0a9e54f83a","toSide":"left"},
+		{"id":"1a6040546590b0b4","fromNode":"cffd9d2c088badd5","fromSide":"bottom","toNode":"b6a5b5832d04fbb7","toSide":"top"},
+		{"id":"212b4dd05ca0325a","fromNode":"b6a5b5832d04fbb7","fromSide":"bottom","toNode":"3c3a4c9513319f87","toSide":"top"}
+	]
 }

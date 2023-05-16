@@ -1,0 +1,293 @@
+{
+  "nodes": [
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md",
+      "width": 500,
+      "height": 500,
+      "y": 4500,
+      "x": 0,
+      "type": "file",
+      "file": "Daily Notes/06-05-2023 Saturday.md",
+      "color": "1"
+    },
+    {
+      "id": "Daily Notes/aarthificial.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 0,
+      "type": "file",
+      "file": "Daily Notes/aarthificial.md"
+    },
+    {
+      "id": "Daily Notes/Typewriter.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 600,
+      "type": "file",
+      "file": "Daily Notes/Typewriter.md"
+    },
+    {
+      "id": "Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 1200,
+      "type": "file",
+      "file": "Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md"
+    },
+    {
+      "id": "Daily Notes/Gameranx.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 1800,
+      "type": "file",
+      "file": "Daily Notes/Gameranx.md"
+    },
+    {
+      "id": "Daily Notes/God of War Ragnarok.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 2400,
+      "type": "file",
+      "file": "Daily Notes/God of War Ragnarok.md"
+    },
+    {
+      "id": "Daily Notes/Dead Space Remake.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 3000,
+      "type": "file",
+      "file": "Daily Notes/Dead Space Remake.md"
+    },
+    {
+      "id": "Daily Notes/Batman Arkham Knight.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 3600,
+      "type": "file",
+      "file": "Daily Notes/Batman Arkham Knight.md"
+    },
+    {
+      "id": "Daily Notes/Bayonetta.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 4200,
+      "type": "file",
+      "file": "Daily Notes/Bayonetta.md"
+    },
+    {
+      "id": "Daily Notes/Max Payne 3.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 4800,
+      "type": "file",
+      "file": "Daily Notes/Max Payne 3.md"
+    },
+    {
+      "id": "Daily Notes/Devil May Cry 4.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 5400,
+      "type": "file",
+      "file": "Daily Notes/Devil May Cry 4.md"
+    },
+    {
+      "id": "Daily Notes/Hi-Fi Rush.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 6000,
+      "type": "file",
+      "file": "Daily Notes/Hi-Fi Rush.md"
+    },
+    {
+      "id": "Daily Notes/Killer 7.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 6600,
+      "type": "file",
+      "file": "Daily Notes/Killer 7.md"
+    },
+    {
+      "id": "Daily Notes/Resident Evil 7.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 7200,
+      "type": "file",
+      "file": "Daily Notes/Resident Evil 7.md"
+    },
+    {
+      "id": "Daily Notes/Ninja Gaiden Black.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 7800,
+      "type": "file",
+      "file": "Daily Notes/Ninja Gaiden Black.md"
+    },
+    {
+      "id": "Daily Notes/Castlevania.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 8400,
+      "type": "file",
+      "file": "Daily Notes/Castlevania.md"
+    },
+    {
+      "id": "Daily Notes/Movie Ratings.md",
+      "width": 500,
+      "height": 500,
+      "x": 1000,
+      "y": 9000,
+      "type": "file",
+      "file": "Daily Notes/Movie Ratings.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/aarthificial.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/aarthificial.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Typewriter.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Typewriter.md"
+    },
+    {
+      "id": "Daily Notes/Typewriter.md-Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/Typewriter.md",
+      "toNode": "Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md"
+    },
+    {
+      "id": "Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md-Daily Notes/aarthificial.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md",
+      "toNode": "Daily Notes/aarthificial.md"
+    },
+    {
+      "id": "Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md-Daily Notes/Typewriter.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md",
+      "toNode": "Daily Notes/Typewriter.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Gameranx.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Gameranx.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/God of War Ragnarok.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/God of War Ragnarok.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Dead Space Remake.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Dead Space Remake.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Batman Arkham Knight.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Batman Arkham Knight.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Bayonetta.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Bayonetta.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Max Payne 3.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Max Payne 3.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Devil May Cry 4.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Devil May Cry 4.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Hi-Fi Rush.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Hi-Fi Rush.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Killer 7.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Killer 7.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Resident Evil 7.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Resident Evil 7.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Ninja Gaiden Black.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Ninja Gaiden Black.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Castlevania.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Castlevania.md"
+    },
+    {
+      "id": "Daily Notes/06-05-2023 Saturday.md-Daily Notes/Movie Ratings.md",
+      "fromSide": "right",
+      "toSide": "left",
+      "fromNode": "Daily Notes/06-05-2023 Saturday.md",
+      "toNode": "Daily Notes/Movie Ratings.md"
+    }
+  ]
+}

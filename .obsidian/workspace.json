@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0c198d47c0ac1018",
+        "id": "9451e06b6968d7f6",
         "type": "tabs",
         "children": [
           {
-            "id": "7185961bbb7e1779",
+            "id": "eb1545709c1b9067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/06-05-2023 Saturday.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2e8eba56d19f498",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Typewriter.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ea4929b5c14ce97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Software/Operating Systems/Fedora 38.md",
+                "file": "Daily Notes/16-05-2023 Tuesday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +32,7 @@
       {
         "id": "9f446db44f7b6729",
         "type": "tabs",
-        "dimension": 74.73002159827215,
+        "dimension": 49.61832061068702,
         "children": [
           {
             "id": "44f27c26a1ecbd8a",
@@ -107,7 +80,7 @@
       {
         "id": "d29a111948921d3b",
         "type": "tabs",
-        "dimension": 25.26997840172786,
+        "dimension": 20.229007633587788,
         "children": [
           {
             "id": "dba2da513f27be77",
@@ -115,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Typewriter.md",
+                "file": "Daily Notes/16-05-2023 Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Typewriter.md",
+                "file": "Daily Notes/16-05-2023 Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,10 +112,61 @@
             }
           }
         ]
+      },
+      {
+        "id": "0d9c51b292855104",
+        "type": "tabs",
+        "dimension": 30.15267175572519,
+        "children": [
+          {
+            "id": "11f3d6275b2f0e18",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Daily Notes/16-05-2023 Tuesday.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#gamedev",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14734418
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.15911458333333,
+                  "lineSizeMultiplier": 2.02682291666667,
+                  "collapse-forces": false,
+                  "centerStrength": 0.5234375,
+                  "repelStrength": 20,
+                  "linkStrength": 0.783854166666667,
+                  "linkDistance": 352,
+                  "scale": 0.19386226572615056,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2955500816bf9db",
@@ -151,7 +175,7 @@
       {
         "id": "9e7437c8dd9a76a9",
         "type": "tabs",
-        "dimension": 35.52338530066815,
+        "dimension": 48.333333333333336,
         "children": [
           {
             "id": "c4d752339eb60f5d",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Typewriter.md"
+                "file": "Daily Notes/16-05-2023 Tuesday.md"
               }
             }
           },
@@ -179,12 +203,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b479e2e91a50847d",
         "type": "tabs",
-        "dimension": 37.97327394209354,
+        "dimension": 51.66666666666667,
         "children": [
           {
             "id": "f8f5295910522eb2",
@@ -195,60 +220,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "af641c37cf467e3e",
-        "type": "tabs",
-        "dimension": 26.503340757238313,
-        "children": [
-          {
-            "id": "11f3d6275b2f0e18",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Daily Notes/Typewriter.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#gamedev",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14734418
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -0.5,
-                  "nodeSizeMultiplier": 1.066,
-                  "lineSizeMultiplier": 1.65677083333333,
-                  "collapse-forces": false,
-                  "centerStrength": 0.442708333333333,
-                  "repelStrength": 16.6285714285714,
-                  "linkStrength": 1,
-                  "linkDistance": 214,
-                  "scale": 0.22298680315945651,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,58 +241,60 @@
       "obsidian-camera:Obsidian Camera": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
-      "notion-like-tables:Create Notion-Like table": false
+      "notion-like-tables:Create Notion-Like table": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "f2e8eba56d19f498",
+  "active": "eb1545709c1b9067",
   "lastOpenFiles": [
+    "Daily Notes/16-05-2023 Tuesday.md",
+    "Daily Notes/15-05-2023 Monday.md",
+    "Daily Notes/attachments/Pasted image 20230515101052.png",
+    "Daily Notes/GDTV EP1.md",
+    "Daily Notes/14-05-2023 Sunday.md",
+    "#templates/Daily Note.md",
+    "Daily Notes/OpenCV.md",
+    "Daily Notes/13-05-2023 Saturday.md",
+    "Daily Notes/11-05-2023 Thursday.md",
     "Daily Notes/06-05-2023 Saturday.md",
-    "Daily Notes/Movie Ratings.md",
-    "Computer Science/Software/Operating Systems/Fedora 38.md",
-    "Daily Notes/Typewriter.md",
-    "Daily Notes/Castlevania.md",
-    "Daily Notes/Ninja Gaiden Black.md",
-    "Daily Notes/Resident Evil 7.md",
-    "Daily Notes/Killer 7.md",
-    "Daily Notes/Hi-Fi Rush.md",
-    "Daily Notes/Devil May Cry 4.md",
-    "Daily Notes/Max Payne 3.md",
-    "Daily Notes/Bayonetta.md",
-    "Daily Notes/Batman Arkham Knight.md",
-    "Daily Notes/Dead Space Remake.md",
-    "Daily Notes/God of War Ragnarok.md",
     "Daily Notes/07-05-2023 Sunday.md",
     "Daily Notes/08-05-2023 Monday.md",
-    "Daily Notes/AI- Driven Dynamic Dialogue through Fuzzy Pattern Matching.md",
-    "Daily Notes/aarthificial.md",
-    "Daily Notes/Gameranx.md",
-    "Computer Science/Software/Operating Systems/Linux.md",
-    "Computer Science/Software/Untitled",
-    "Computer Science/Software/Version Control Systems (VCS)",
-    "Computer Science/Software/Operating Systems",
-    "Computer Science/Gaming/Ubisoft Forward 2022.md",
-    "Computer Science/Gaming",
-    "Computer Science/Software/Version Control Systems (VCS)/Git.md",
-    "Computer Science/Software/Games/Untitled",
-    "books.md",
-    "Computer Science/Languages/God-Tier Development Roadmap.md",
-    "Computer Science/Languages/C++/C++.md",
-    "Computer Science/Languages/C++",
-    "Computer Science/Languages/C++/C++ Compiler Process.canvas",
+    "Daily Notes/09-05-2023 Tuesday.md",
+    "Daily Notes/10-05-2023 Wednesday.md",
+    "Games/JangaFX.md",
+    "Computer Science/Game Dev/Content/Youtube/Randy.md",
+    "Daily Notes/Pylsp.md",
+    "Computer Science/Content/FreeCodeCamp.md",
+    "Computer Science/Content",
+    "Computer Science/Languages/Zig.md",
+    "To Watch.md",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/Astortion-2.md",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/62.png",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/34.png",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/63.png",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/gif 2.gif",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/gif 1.gif",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/gif.gif",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/Pasted image 20230510083417.png",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/Pasted image 20230510083301.png",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/Pasted image 20230510083232.png",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/Astortion-1.md",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs",
+    "Computer Science/Languages/Odin.md",
+    "Untitled.md",
+    "Computer Science/Game Dev/Methods/AI - Driven Dynamic Dialogue through Fuzzy Pattern Matching.md",
+    "Authors/Sebastian Lague.md",
+    "Authors/Colin Galen.md",
+    "Roadmap/Programming Roadmap.canvas",
+    "Computer Science/Game Dev/Content/Youtube/aarthificial",
+    "Computer Science/Game Dev/Methods",
+    "Untitled 3.table",
+    "Untitled 2.table",
+    "Untitled 1.table",
     "Untitled.table",
-    "Computer Science/AI/attachments/Pasted image 20230503110300.png",
-    "Computer Science/AI/attachments/Pasted image 20230503110129.png",
-    "Computer Science/AI/attachments",
-    "Computer Science/AI",
-    "Computer Science/New folder",
-    "Daily Notes/attachments/Pasted image 20230501155634.png",
-    "Daily Notes/attachments/Pasted image 20230501154551.png",
-    "Daily Notes/attachments/Pasted image 20230423133848.png",
-    "Daily Notes/attachments/Screenshot (86).png",
-    "Games/attachments/Pasted image 20230422215749.png",
-    "Games/attachments/Pasted image 20230422215651.png",
-    "Games/attachments/Pasted image 20230417134303.png",
-    "Games/attachments/Pasted image 20230417134016.png",
-    "Roadmap/Programming Roadmap.canvas"
+    "Computer Science/Software/Operating Systems/attachments",
+    "06-05-2023 Saturday.canvas",
+    "Computer Science/Languages/C++/C++ Compiler Process.canvas"
   ]
 }

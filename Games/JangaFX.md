@@ -1,0 +1,5 @@
+# A Brief History of JangaFX
+
+JangaFX was founded in 2016 by Nick Seavert, an entrepreneur well-versed in real-time VFX technologies. Rather than accepting outside investment to fund the company, Nick initially bootstrapped JangaFX through credit cards, software sales, and sweat equity. JangaFX's first tool, [[VectorayGen]], was released in 2017, and our flagship product, [[EmberGen]], in 2019. [[EmberGen]] is a standalone real-time volumetric fluid simulation tool ideal for generating flipbooks, image sequences, and VDB files.  
+  
+Our mission is to provide cutting-edge real-time VFX tools to artists and designers within the video game and film industries. Most workflows for real-time VFX production in games rely on software packages suited toward the film and CG industries. We’re working hard to change this sad state of affairs by providing tools specifically built for game developers' unique needs. If you happen to be in the film or pre-viz industry, don't worry: we've got great tools for you too and we are actively developing new tools for film and motion graphics! We support exports to common industry formats, such as VDB and EXR.

@@ -1,0 +1,514 @@
+{
+  "workspaces": {
+    "Full Screen": {
+      "main": {
+        "id": "f8d5c6aa67777601",
+        "type": "split",
+        "children": [
+          {
+            "id": "3e606df2569b0680",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33bf5c352e972c65",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily Notes/13-05-2023 Saturday.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2b0f755dc1f479d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily Notes/15-05-2023 Monday.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ad62275f718ef505",
+        "type": "split",
+        "children": [
+          {
+            "id": "9f446db44f7b6729",
+            "type": "tabs",
+            "dimension": 77.3854961832061,
+            "children": [
+              {
+                "id": "44f27c26a1ecbd8a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eb61dee181086693",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a5a0cdba145ec725",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5f7caf0d862ec2ba",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "d29a111948921d3b",
+            "type": "tabs",
+            "dimension": 22.614503816793892,
+            "children": [
+              {
+                "id": "dba2da513f27be77",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Daily Notes/15-05-2023 Monday.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a8eaed0b7b6a8660",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Daily Notes/15-05-2023 Monday.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 284.5
+      },
+      "right": {
+        "id": "e2955500816bf9db",
+        "type": "split",
+        "children": [
+          {
+            "id": "9e7437c8dd9a76a9",
+            "type": "tabs",
+            "dimension": 35.52338530066815,
+            "children": [
+              {
+                "id": "c4d752339eb60f5d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Daily Notes/15-05-2023 Monday.md"
+                  }
+                }
+              },
+              {
+                "id": "a1182bd5e31c3521",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ebfde8f6b4280366",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "b479e2e91a50847d",
+            "type": "tabs",
+            "dimension": 37.97327394209354,
+            "children": [
+              {
+                "id": "f8f5295910522eb2",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "af641c37cf467e3e",
+            "type": "tabs",
+            "dimension": 26.503340757238313,
+            "children": [
+              {
+                "id": "11f3d6275b2f0e18",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Daily Notes/15-05-2023 Monday.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 5,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#gamedev",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14734418
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": -0.1,
+                      "nodeSizeMultiplier": 1.0953125,
+                      "lineSizeMultiplier": 1.63125,
+                      "collapse-forces": true,
+                      "centerStrength": 0.234375,
+                      "repelStrength": 17.1875,
+                      "linkStrength": 0.78125,
+                      "linkDistance": 292,
+                      "scale": 0.19386226572614948,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 388.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-camera:Obsidian Camera": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "omnisearch:Omnisearch": false,
+          "notion-like-tables:Create Notion-Like table": false,
+          "markdown-importer:Open format converter": false
+        }
+      },
+      "active": "dba2da513f27be77"
+    },
+    "Half Screen Note taking": {
+      "main": {
+        "id": "f8d5c6aa67777601",
+        "type": "split",
+        "children": [
+          {
+            "id": "3e606df2569b0680",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33bf5c352e972c65",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily Notes/14-05-2023 Sunday.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ad62275f718ef505",
+        "type": "split",
+        "children": [
+          {
+            "id": "9f446db44f7b6729",
+            "type": "tabs",
+            "dimension": 49.61832061068702,
+            "children": [
+              {
+                "id": "44f27c26a1ecbd8a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eb61dee181086693",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a5a0cdba145ec725",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5f7caf0d862ec2ba",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "d29a111948921d3b",
+            "type": "tabs",
+            "dimension": 20.229007633587788,
+            "children": [
+              {
+                "id": "dba2da513f27be77",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Daily Notes/14-05-2023 Sunday.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a8eaed0b7b6a8660",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Daily Notes/14-05-2023 Sunday.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0d9c51b292855104",
+            "type": "tabs",
+            "dimension": 30.15267175572519,
+            "children": [
+              {
+                "id": "11f3d6275b2f0e18",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Daily Notes/14-05-2023 Sunday.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 5,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#gamedev",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14734418
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1.15911458333333,
+                      "lineSizeMultiplier": 2.02682291666667,
+                      "collapse-forces": false,
+                      "centerStrength": 0.5234375,
+                      "repelStrength": 20,
+                      "linkStrength": 0.783854166666667,
+                      "linkDistance": 352,
+                      "scale": 0.19386226572615056,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 284.5
+      },
+      "right": {
+        "id": "e2955500816bf9db",
+        "type": "split",
+        "children": [
+          {
+            "id": "9e7437c8dd9a76a9",
+            "type": "tabs",
+            "dimension": 48.33333333333333,
+            "children": [
+              {
+                "id": "c4d752339eb60f5d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Daily Notes/14-05-2023 Sunday.md"
+                  }
+                }
+              },
+              {
+                "id": "a1182bd5e31c3521",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ebfde8f6b4280366",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "b479e2e91a50847d",
+            "type": "tabs",
+            "dimension": 51.666666666666664,
+            "children": [
+              {
+                "id": "f8f5295910522eb2",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 388.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-camera:Obsidian Camera": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "omnisearch:Omnisearch": false,
+          "notion-like-tables:Create Notion-Like table": false,
+          "markdown-importer:Open format converter": false
+        }
+      },
+      "active": "33bf5c352e972c65"
+    }
+  },
+  "active": "Half Screen Note taking"
+}

@@ -1,12 +1,11 @@
-
-# Daily Note for {{date:DD-MMM 'YY}}
+# Daily Note for 10-May '23
 #todo
 - [ ] Physics
 - [ ] Chemistry
 - [ ] Mathematics
-- [ ] Game Dev
+- [ ] C++
 #dl 
-- [ ] 
+- [x] Astortion [[Astortion-1|1]] and [[Astortion-2|2]] 
 
 #### Footers, Tags and Links
 - Tags: #dailynote 
