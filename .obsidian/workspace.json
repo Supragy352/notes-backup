@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "9451e06b6968d7f6",
+        "id": "0177b0484ed4e88d",
         "type": "tabs",
         "children": [
           {
-            "id": "eb1545709c1b9067",
+            "id": "342d2972cd87cf58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/16-05-2023 Tuesday.md",
+                "file": "Movie Ratings.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63c8857ba8ec0613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games to Play.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -32,7 +46,7 @@
       {
         "id": "9f446db44f7b6729",
         "type": "tabs",
-        "dimension": 49.61832061068702,
+        "dimension": 49.61904761904762,
         "children": [
           {
             "id": "44f27c26a1ecbd8a",
@@ -80,7 +94,7 @@
       {
         "id": "d29a111948921d3b",
         "type": "tabs",
-        "dimension": 20.229007633587788,
+        "dimension": 22.380952380952387,
         "children": [
           {
             "id": "dba2da513f27be77",
@@ -88,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/16-05-2023 Tuesday.md",
+                "file": "Games to Play.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/16-05-2023 Tuesday.md",
+                "file": "Games to Play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
       {
         "id": "0d9c51b292855104",
         "type": "tabs",
-        "dimension": 30.15267175572519,
+        "dimension": 28.000000000000004,
         "children": [
           {
             "id": "11f3d6275b2f0e18",
@@ -124,38 +138,30 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/16-05-2023 Tuesday.md",
+                "file": "Games to Play.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#gamedev",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14734418
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.15911458333333,
-                  "lineSizeMultiplier": 2.02682291666667,
-                  "collapse-forces": false,
-                  "centerStrength": 0.5234375,
-                  "repelStrength": 20,
-                  "linkStrength": 0.783854166666667,
-                  "linkDistance": 352,
-                  "scale": 0.19386226572615056,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5393521715768036,
                   "close": true
                 }
               }
@@ -165,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "e2955500816bf9db",
@@ -175,7 +180,7 @@
       {
         "id": "9e7437c8dd9a76a9",
         "type": "tabs",
-        "dimension": 48.333333333333336,
+        "dimension": 48.33333333333334,
         "children": [
           {
             "id": "c4d752339eb60f5d",
@@ -183,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/16-05-2023 Tuesday.md"
+                "file": "Games to Play.md"
               }
             }
           },
@@ -209,7 +214,7 @@
       {
         "id": "b479e2e91a50847d",
         "type": "tabs",
-        "dimension": 51.66666666666667,
+        "dimension": 51.66666666666666,
         "children": [
           {
             "id": "f8f5295910522eb2",
@@ -245,55 +250,55 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb1545709c1b9067",
+  "active": "63c8857ba8ec0613",
   "lastOpenFiles": [
-    "Daily Notes/16-05-2023 Tuesday.md",
-    "Daily Notes/15-05-2023 Monday.md",
-    "Daily Notes/attachments/Pasted image 20230515101052.png",
-    "Daily Notes/GDTV EP1.md",
-    "Daily Notes/14-05-2023 Sunday.md",
-    "#templates/Daily Note.md",
-    "Daily Notes/OpenCV.md",
-    "Daily Notes/13-05-2023 Saturday.md",
-    "Daily Notes/11-05-2023 Thursday.md",
-    "Daily Notes/06-05-2023 Saturday.md",
-    "Daily Notes/07-05-2023 Sunday.md",
-    "Daily Notes/08-05-2023 Monday.md",
-    "Daily Notes/09-05-2023 Tuesday.md",
-    "Daily Notes/10-05-2023 Wednesday.md",
+    "Movie Ratings.md",
+    "Games to Play.md",
+    "README.md",
+    "Daily Notes/25-05-2023 Thursday.md",
+    "Daily Notes/24-05-2023 Wednesday.md",
+    "Daily Notes/Cython.md",
+    "Computer Science/Programming Concepts/Deadly Sins in Programming.md",
+    "Daily Notes/attachments/Pasted image 20230524205342.png",
+    "Daily Notes/attachments/Pasted image 20230524205259.png",
+    "Daily Notes/attachments/Pasted image 20230524205151.png",
+    "Daily Notes/attachments/Pasted image 20230524205136.png",
+    "Daily Notes/attachments/Pasted image 20230524205108.png",
+    "Daily Notes/attachments/Pasted image 20230524205014.png",
+    "Daily Notes/attachments/Pasted image 20230524204940.png",
+    "Daily Notes/attachments/Pasted image 20230524204837.png",
+    "Daily Notes/attachments/Pasted image 20230524204812.png",
+    "Daily Notes/attachments/Pasted image 20230524204808.png",
+    "How.md",
+    "Computer Science/Software/Version Control Systems (VCS)/Git.md",
+    "Computer Science/Software/Operating Systems/Linux.md",
+    "Computer Science/Software/Version Control Systems (VCS)/distributed version control.md",
+    "Computer Science/Gaming/Consoles/Nintendo/Nintendo Consoles.md",
+    "Computer Science/AI/V69.md",
+    "Computer Science/Software/Operating Systems/Fedora 38.md",
     "Games/JangaFX.md",
-    "Computer Science/Game Dev/Content/Youtube/Randy.md",
-    "Daily Notes/Pylsp.md",
-    "Computer Science/Content/FreeCodeCamp.md",
+    "Daily Notes/AutoHotKey.md",
+    "Computer Science/AI/Hugging Face.md",
+    "Excalidraw/Drawing 2023-05-23 21.03.00.excalidraw.md",
+    "Daily Notes/18-05-2023 Thursday.md",
+    "Daily Notes/23-05-2023 Tuesday.md",
+    "Computer Science/AI/TensorBoard traces.md",
+    "Daily Notes/22-05-2023 Monday.md",
+    "Daily Notes/GDTV EP 13.md",
+    "Computer Science/Game Dev/Course Notes/GameDevTv/GDTV EP12.md",
+    "Daily Notes/16-05-2023 Tuesday.md",
+    "Daily Notes/17-05-2023 Wednesday.md",
+    "Computer Science/Gaming/Consoles/Nintendo/attachments",
+    "Computer Science/Gaming/Consoles/Nintendo/N64",
+    "Computer Science/Gaming/Consoles/Nintendo",
+    "Computer Science/Gaming/Events",
+    "Computer Science/Gaming/PC",
+    "Computer Science/Gaming/Consoles",
+    "Computer Science/Game Dev/Course Notes/GameDevTv",
+    "Computer Science/Game Dev/Course Notes",
     "Computer Science/Content",
-    "Computer Science/Languages/Zig.md",
-    "To Watch.md",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/Astortion-2.md",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/62.png",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/34.png",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/63.png",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/gif 2.gif",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/gif 1.gif",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/gif.gif",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/Pasted image 20230510083417.png",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/Pasted image 20230510083301.png",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments/Pasted image 20230510083232.png",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/Astortion-1.md",
     "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs",
-    "Computer Science/Languages/Odin.md",
-    "Untitled.md",
-    "Computer Science/Game Dev/Methods/AI - Driven Dynamic Dialogue through Fuzzy Pattern Matching.md",
-    "Authors/Sebastian Lague.md",
-    "Authors/Colin Galen.md",
     "Roadmap/Programming Roadmap.canvas",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial",
-    "Computer Science/Game Dev/Methods",
-    "Untitled 3.table",
-    "Untitled 2.table",
-    "Untitled 1.table",
-    "Untitled.table",
-    "Computer Science/Software/Operating Systems/attachments",
     "06-05-2023 Saturday.canvas",
     "Computer Science/Languages/C++/C++ Compiler Process.canvas"
   ]

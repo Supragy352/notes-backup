@@ -1,0 +1,16 @@
+
+# Daily Note for 17-May '23
+#todo
+- [ ] Physics
+- [ ] Chemistry
+- [ ] Mathematics
+- [ ] Game Dev
+	- 
+#dl 
+- [ ] 
+
+#### Footers, Tags and Links
+- Tags: #dailynote 
+- Links: 
+
+[^1]:
