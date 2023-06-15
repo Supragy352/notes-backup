@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d3220ef0c4654425",
+        "id": "863ed0aba4384b43",
         "type": "tabs",
         "children": [
           {
-            "id": "60ef98b9f622c4a2",
+            "id": "3c4632f8935b1e36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/16-06-2023 Friday.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/16-06-2023 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/16-06-2023 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +124,9 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Daily Notes/16-06-2023 Friday.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 5,
                   "localBacklinks": true,
@@ -135,11 +143,11 @@
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
-                  "centerStrength": 0.3515625,
-                  "repelStrength": 4.94791666666667,
+                  "centerStrength": 0.3203125,
+                  "repelStrength": 12.65625,
                   "linkStrength": 1,
                   "linkDistance": 398,
-                  "scale": 0.2537864919147765,
+                  "scale": 0.3558043213511098,
                   "close": true
                 }
               }
@@ -149,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "e2955500816bf9db",
@@ -166,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/16-06-2023 Friday.md"
+              }
             }
           },
           {
@@ -228,8 +237,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "60ef98b9f622c4a2",
+  "active": "3c4632f8935b1e36",
   "lastOpenFiles": [
+    "Daily Notes/16-06-2023 Friday.md",
     "Daily Notes/15-06-2023 Thursday.md",
     "Daily Notes/Glitch Tokens.md",
     "Daily Notes/Programming Paradigms.md",
@@ -261,7 +271,6 @@
     "Daily Notes/Top 10 New Games of June 2023.md",
     "Daily Notes/The Digital Quest for Loop Quantum Gravity.md",
     "Daily Notes/28-05-2023 Sunday.md",
-    "Daily Notes/26-05-2023 Friday.md",
     "Daily Notes/attachments/Pasted image 20230525105443.png",
     "Daily Notes/attachments/Pasted image 20230525105300.png",
     "Daily Notes/attachments/Pasted image 20230525105133.png",
