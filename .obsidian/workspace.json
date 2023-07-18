@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "863ed0aba4384b43",
+        "id": "991b7703178ffc03",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4632f8935b1e36",
+            "id": "c54b2e586b1c19bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/16-06-2023 Friday.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -32,7 +27,7 @@
       {
         "id": "9f446db44f7b6729",
         "type": "tabs",
-        "dimension": 49.61904761904762,
+        "dimension": 68.91534391534393,
         "children": [
           {
             "id": "44f27c26a1ecbd8a",
@@ -60,14 +55,6 @@
             }
           },
           {
-            "id": "a5a0cdba145ec725",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "5f7caf0d862ec2ba",
             "type": "leaf",
             "state": {
@@ -80,7 +67,7 @@
       {
         "id": "d29a111948921d3b",
         "type": "tabs",
-        "dimension": 22.380952380952387,
+        "dimension": 31.084656084656082,
         "children": [
           {
             "id": "dba2da513f27be77",
@@ -88,7 +75,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/16-06-2023 Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/16-06-2023 Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,52 +97,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "0d9c51b292855104",
-        "type": "tabs",
-        "dimension": 28.000000000000004,
-        "children": [
-          {
-            "id": "11f3d6275b2f0e18",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Daily Notes/16-06-2023 Friday.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.3203125,
-                  "repelStrength": 12.65625,
-                  "linkStrength": 1,
-                  "linkDistance": 398,
-                  "scale": 0.3558043213511098,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2955500816bf9db",
@@ -166,16 +110,14 @@
       {
         "id": "9e7437c8dd9a76a9",
         "type": "tabs",
-        "dimension": 37.213740458015266,
+        "dimension": 32.697807435653,
         "children": [
           {
             "id": "c4d752339eb60f5d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/16-06-2023 Friday.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,7 +134,7 @@
       {
         "id": "8f460956b05a9bd3",
         "type": "tabs",
-        "dimension": 62.786259541984734,
+        "dimension": 40.61010486177311,
         "children": [
           {
             "id": "ebfde8f6b4280366",
@@ -210,12 +152,52 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "988950fc9b980f1c",
+        "type": "tabs",
+        "dimension": 26.692087702573875,
+        "children": [
+          {
+            "id": "217a8e1535104451",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.458333333333333,
+                  "repelStrength": 14.0625,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000018,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
+    "width": 324.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -229,52 +211,54 @@
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-camera:Obsidian Camera": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
       "notion-like-tables:Create Notion-Like table": false,
-      "markdown-importer:Open format converter": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "3c4632f8935b1e36",
+  "active": "c54b2e586b1c19bf",
   "lastOpenFiles": [
-    "Daily Notes/16-06-2023 Friday.md",
-    "Daily Notes/15-06-2023 Thursday.md",
-    "Daily Notes/Glitch Tokens.md",
-    "Daily Notes/Programming Paradigms.md",
-    "Daily Notes/Haskell.md",
+    "Computer Science/Software/Operating Systems/Linux.md",
+    "Computer Science/Software/Docker.md",
+    "Daily Notes/19-07-2023 Wednesday.md",
+    "Daily Notes/17-06-2023 Saturday.md",
+    "Daily Notes/IndieGameLab.md",
+    "Computer Science/Software/attachments/Pasted image 20230715155753.png",
+    "Computer Science/Software/attachments/Pasted image 20220902123206.png",
+    "Computer Science/Software/attachments/Pasted image 20220904075947.png",
+    "banners",
+    "Computer Science/Software/attachments/Pasted image 20230715160002.png",
+    "Daily Notes/15-07-2023 Saturday.md",
+    "#templates/Daily Note.md",
+    "Daily Notes/14-07-2023 Friday.md",
+    "Daily Notes/Draft.md",
+    "Daily Notes/13-07-2023 Thursday.md",
+    "Daily Notes/Vaishna Poem.md",
+    "Daily Notes/attachments/Pasted image 20230712232601.png",
+    "Daily Notes/12-07-2023 Wednesday.md",
+    "Computer Science/Software/Version Control Systems (VCS)/Git.md",
+    "Daily Notes/Poem.md",
+    "Daily Notes/11-07-2023 Tuesday.md",
+    "Daily Notes/09-07-2023 Sunday.md",
+    "Computer Science/Languages/Python.md",
+    "Random Youtube/G Pen Nib.md",
+    "Daily Notes/Tasks to Do.md",
+    "Kanbans",
+    "Daily Notes/Untitled 1.md",
+    "Daily Notes/07-07-2023 Friday.md",
+    "Daily Notes/06-07-2023 Thursday.md",
+    "Daily Notes/05-07-2023 Wednesday.md",
+    "Daily Notes/Raylib Showcase.md",
+    "Daily Notes/03-07-2023 Monday.md",
+    "Daily Notes/EP14.md",
+    "Games/attachments/Pasted image 20230627044220.png",
+    "Games/attachments/Pasted image 20230627044131.png",
     "Daily Notes/attachments/Pasted image 20230615194957.png",
     "Daily Notes/attachments/Pasted image 20230615194925.png",
-    "Daily Notes/Programming Types.md",
     "Daily Notes/attachments/Pasted image 20230615194208.png",
-    "Daily Notes/attachments/Pasted image 20230615193956.png",
-    "Daily Notes/attachments/Pasted image 20230615124951.png",
-    "Daily Notes/attachments/Pasted image 20230615124800.png",
-    "Daily Notes/11-06-2023 Sunday.md",
-    "Computer Science/AI/Hugging Face.md",
-    "Daily Notes/OpenCV.md",
-    "Daily Notes/10-06-2023 Saturday.md",
-    "Computer Science/Software/IDEs/Sublime Text.md",
-    "Daily Notes/08-06-2023 Thursday.md",
-    "Daily Notes/CMAKE vs Make.md",
-    "Computer Science/Languages/Zig.md",
-    "Excalidraw/Drawing 2023-06-05 23.58.40.excalidraw.md",
-    "Daily Notes/05-06-2023 Monday.md",
-    "Daily Notes/06-05-2023 Saturday.md",
-    "Daily Notes/04-09-2022 Sunday.md",
-    "Daily Notes/04-06-2023 Sunday.md",
-    "Daily Notes/31-05-2023 Wednesday.md",
-    "Daily Notes/10 Cancelled Game Series We STILL THINK ABOUT.md",
-    "Daily Notes/30-05-2023 Tuesday.md",
-    "Daily Notes/29-05-2023 Monday.md",
-    "Daily Notes/Top 10 New Games of June 2023.md",
-    "Daily Notes/The Digital Quest for Loop Quantum Gravity.md",
-    "Daily Notes/28-05-2023 Sunday.md",
-    "Daily Notes/attachments/Pasted image 20230525105443.png",
-    "Daily Notes/attachments/Pasted image 20230525105300.png",
-    "Daily Notes/attachments/Pasted image 20230525105133.png",
-    "Daily Notes/attachments/Pasted image 20230525105025.png",
     "Computer Science/Gaming/Consoles/Nintendo/attachments",
     "Computer Science/Gaming/Consoles/Nintendo/N64",
     "Computer Science/Gaming/Consoles/Nintendo",
@@ -283,8 +267,6 @@
     "Computer Science/Gaming/Consoles",
     "Computer Science/Game Dev/Course Notes/GameDevTv",
     "Computer Science/Game Dev/Course Notes",
-    "Computer Science/Content",
-    "Computer Science/Game Dev/Content/Youtube/aarthificial/Astortion Dev Logs/attachments",
     "Roadmap/Programming Roadmap.canvas",
     "06-05-2023 Saturday.canvas",
     "Computer Science/Languages/C++/C++ Compiler Process.canvas"

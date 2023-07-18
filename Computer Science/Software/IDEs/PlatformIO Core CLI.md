@@ -11,7 +11,7 @@
 * Serial Port Monitor
 * Integration Components (Cloud and Desktop [[integrated development environment|IDEs]] and  Continuous Integration).
 
-**PlatformIO Core** is written in [[Python]][^3] and works on [[Windows]], [[macOS]], [[Linux]], [[FreeBSD]] and [[ARM]] - based credit-card sized
+**PlatformIO Core** is written in [[Python]][^3] and works on [[Microsoft Windows]], [[macOS]], [[Linux]], [[FreeBSD]] and [[ARM]] - based credit-card sized
 computers:
 	- [[Raspberry Pi]]
 	- [[BeagleBone]]

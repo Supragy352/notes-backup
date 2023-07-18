@@ -4,7 +4,7 @@
 
 ## ChatGPT Explains
 
-OpenCV (Open Source Computer Vision Library) is an [[open-source]] [[computer vision]] and [[machine learning]] [[software library]]. It is a [[cross-platform]] library, which means it can be used on various operating systems like [[Windows]], [[Linux]], and [[MacOS]]. OpenCV was first released in 1999 and has since become one of the most widely used libraries in [[computer vision]].
+OpenCV (Open Source Computer Vision Library) is an [[open-source]] [[computer vision]] and [[machine learning]] [[software library]]. It is a [[cross-platform]] library, which means it can be used on various operating systems like [[Microsoft Windows]], [[Linux]], and [[MacOS]]. OpenCV was first released in 1999 and has since become one of the most widely used libraries in [[computer vision]].
 
 OpenCV provides a wide range of functionalities for [[image and video processing]]. It includes various [[algorithms]] and techniques for [[image processing]], [[object detection]], [[object recognition]], and [[machine learning]]. Some of the key features of OpenCV are:
 

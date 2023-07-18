@@ -4,4 +4,4 @@ The `translate()` method is a member of the transform attached to the specific `
 
 # Variables
 Variables are containers used for well uk why.
-`type name = data;`
+	`type name = data;`
