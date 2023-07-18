@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "991b7703178ffc03",
+        "id": "21f7c3af9b663a80",
         "type": "tabs",
         "children": [
           {
-            "id": "c54b2e586b1c19bf",
+            "id": "78fca26d65c4a6ec",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -110,7 +110,7 @@
       {
         "id": "9e7437c8dd9a76a9",
         "type": "tabs",
-        "dimension": 32.697807435653,
+        "dimension": 32.697807435653004,
         "children": [
           {
             "id": "c4d752339eb60f5d",
@@ -134,7 +134,7 @@
       {
         "id": "8f460956b05a9bd3",
         "type": "tabs",
-        "dimension": 40.61010486177311,
+        "dimension": 40.61010486177312,
         "children": [
           {
             "id": "ebfde8f6b4280366",
@@ -219,7 +219,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c54b2e586b1c19bf",
+  "active": "78fca26d65c4a6ec",
   "lastOpenFiles": [
     "Computer Science/Software/Operating Systems/Linux.md",
     "Computer Science/Software/Docker.md",
