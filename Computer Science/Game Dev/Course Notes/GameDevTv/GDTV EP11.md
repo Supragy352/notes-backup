@@ -9,4 +9,4 @@ Global and Local widget orientations
 
 ## Working of C# 
 
-Basically every object oriented programming language works around the idea of everything being an [[Object|object]].  Like we have functions in [[C]] and structs, we have methods in an OOL (object oriented language).
+Basically every object oriented programming language works around the idea of everything being an [[Object|object]].  Like we have functions in [[CSharp]] and structs, we have methods in an OOL (object oriented language).

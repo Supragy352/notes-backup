@@ -4,18 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "21f7c3af9b663a80",
+        "id": "efb1a503f3850f66",
         "type": "tabs",
         "children": [
           {
-            "id": "78fca26d65c4a6ec",
+            "id": "d2ab3f96a81e127d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Ideas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "50bd8d943c39ecf2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/15-08-2023 Tuesday.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53b8f62546610d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Graphics/OpenGL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a4e7cfec20d4b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Graphics/Khronos Group.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -27,7 +74,6 @@
       {
         "id": "9f446db44f7b6729",
         "type": "tabs",
-        "dimension": 68.91534391534393,
         "children": [
           {
             "id": "44f27c26a1ecbd8a",
@@ -62,45 +108,12 @@
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "d29a111948921d3b",
-        "type": "tabs",
-        "dimension": 31.084656084656082,
-        "children": [
-          {
-            "id": "dba2da513f27be77",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a8eaed0b7b6a8660",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
+    "width": 294.5,
     "collapsed": true
   },
   "right": {
@@ -110,14 +123,16 @@
       {
         "id": "9e7437c8dd9a76a9",
         "type": "tabs",
-        "dimension": 32.697807435653004,
+        "dimension": 50.83333333333334,
         "children": [
           {
             "id": "c4d752339eb60f5d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Computer Graphics/OpenGL.md"
+              }
             }
           },
           {
@@ -127,37 +142,59 @@
               "type": "calendar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8f460956b05a9bd3",
-        "type": "tabs",
-        "dimension": 40.61010486177312,
-        "children": [
+          },
           {
-            "id": "ebfde8f6b4280366",
+            "id": "ad43f1fd6f6a37a1",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "dictionary-view",
               "state": {}
             }
           },
           {
-            "id": "a1182bd5e31c3521",
+            "id": "36bd6d5637edb5d8",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "57b921038bff687f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Computer Graphics/OpenGL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84657b54149a7b93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Computer Graphics/OpenGL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "988950fc9b980f1c",
         "type": "tabs",
-        "dimension": 26.692087702573875,
+        "dimension": 49.16666666666666,
         "children": [
           {
             "id": "217a8e1535104451",
@@ -165,6 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Computer Science/Computer Graphics/OpenGL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,15 +217,15 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "textFadeMultiplier": -2,
+                  "nodeSizeMultiplier": 0.814583333333333,
+                  "lineSizeMultiplier": 1.22291666666667,
                   "collapse-forces": true,
                   "centerStrength": 0.458333333333333,
                   "repelStrength": 14.0625,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0000000000000018,
+                  "linkDistance": 79,
+                  "scale": 0.6666666666666679,
                   "close": true
                 }
               }
@@ -197,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,62 +249,64 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-camera:Obsidian Camera": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create Notion-Like table": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "notion-like-tables:Create new loom": false
     }
   },
-  "active": "78fca26d65c4a6ec",
+  "active": "53b8f62546610d41",
   "lastOpenFiles": [
-    "Computer Science/Software/Operating Systems/Linux.md",
-    "Computer Science/Software/Docker.md",
-    "Daily Notes/19-07-2023 Wednesday.md",
-    "Daily Notes/17-06-2023 Saturday.md",
-    "Daily Notes/IndieGameLab.md",
+    "Daily Notes/15-08-2023 Tuesday.md",
+    "Daily Notes/Ideas.md",
+    "Computer Science/Computer Graphics/Khronos Group.md",
+    "Computer Science/Computer Graphics/OpenGL.md",
+    "Daily Notes/09-08-2023 Wednesday.md",
+    "Daily Notes/05-08-2023 Saturday.md",
+    "Daily Notes/04-08-2023 Friday.md",
+    "Daily Notes/03-08-2023 Thursday.md",
+    "Daily Notes/14-08-2023 Monday.md",
+    "Games/Games to Play.md",
+    "Games/Splinter Cell Conviction.md",
+    "Final Fantasy XV.md",
+    "Games/Redfall.md",
+    "Daily Notes/14-05-2023 Sunday.md",
+    "Daily Notes/colormind.com.md",
+    "Pending.md",
+    "Building Game Idea.md",
+    "Plugin Ideas.md",
+    "TBR (To Be Read).md",
+    "Pending.canvas",
+    "Untitled.loom",
+    "Long Term To Do List.md",
+    "Design/Youtube/AI Art Using Stable Diffusion.md",
+    "InfoDict.md",
+    "Plugins.md",
+    "To Watch.md",
+    "README.md",
+    "Untitled 1.md",
+    "Roadmap/Programming Roadmap.canvas",
+    "attachments/Pasted image 20230525104846.png",
+    "attachments/Pasted image 20230525104743.png",
+    "attachments/Pasted image 20230525102515.png",
+    "attachments/Recording 20230803002321.webm",
+    "Projects/Robotic Arm v2/Project Plan.canvas",
+    "Projects/Robotic Arm v2",
     "Computer Science/Software/attachments/Pasted image 20230715155753.png",
     "Computer Science/Software/attachments/Pasted image 20220902123206.png",
     "Computer Science/Software/attachments/Pasted image 20220904075947.png",
     "banners",
     "Computer Science/Software/attachments/Pasted image 20230715160002.png",
-    "Daily Notes/15-07-2023 Saturday.md",
-    "#templates/Daily Note.md",
-    "Daily Notes/14-07-2023 Friday.md",
-    "Daily Notes/Draft.md",
-    "Daily Notes/13-07-2023 Thursday.md",
-    "Daily Notes/Vaishna Poem.md",
     "Daily Notes/attachments/Pasted image 20230712232601.png",
-    "Daily Notes/12-07-2023 Wednesday.md",
-    "Computer Science/Software/Version Control Systems (VCS)/Git.md",
-    "Daily Notes/Poem.md",
-    "Daily Notes/11-07-2023 Tuesday.md",
-    "Daily Notes/09-07-2023 Sunday.md",
-    "Computer Science/Languages/Python.md",
-    "Random Youtube/G Pen Nib.md",
-    "Daily Notes/Tasks to Do.md",
     "Kanbans",
-    "Daily Notes/Untitled 1.md",
-    "Daily Notes/07-07-2023 Friday.md",
-    "Daily Notes/06-07-2023 Thursday.md",
-    "Daily Notes/05-07-2023 Wednesday.md",
-    "Daily Notes/Raylib Showcase.md",
-    "Daily Notes/03-07-2023 Monday.md",
-    "Daily Notes/EP14.md",
     "Games/attachments/Pasted image 20230627044220.png",
     "Games/attachments/Pasted image 20230627044131.png",
-    "Daily Notes/attachments/Pasted image 20230615194957.png",
-    "Daily Notes/attachments/Pasted image 20230615194925.png",
-    "Daily Notes/attachments/Pasted image 20230615194208.png",
     "Computer Science/Gaming/Consoles/Nintendo/attachments",
     "Computer Science/Gaming/Consoles/Nintendo/N64",
     "Computer Science/Gaming/Consoles/Nintendo",
     "Computer Science/Gaming/Events",
     "Computer Science/Gaming/PC",
-    "Computer Science/Gaming/Consoles",
-    "Computer Science/Game Dev/Course Notes/GameDevTv",
-    "Computer Science/Game Dev/Course Notes",
-    "Roadmap/Programming Roadmap.canvas",
     "06-05-2023 Saturday.canvas",
     "Computer Science/Languages/C++/C++ Compiler Process.canvas"
   ]

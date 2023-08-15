@@ -99,5 +99,36 @@
       ],
       "key": "F"
     }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspaces:load": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "workspaces:open-modal": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F12"
+    }
   ]
 }

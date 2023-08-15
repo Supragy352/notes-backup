@@ -34,7 +34,7 @@ Models can be shared and open-sourced by the community. Each one working on thei
 
 ## Spaces
 
-Sort of like a toolkit to use [[Python]] [[SDK|SDKs]] (**[Gradio](https://gradio.app/)** and **[Streamlit](https://streamlit.io/)**) and build deployable apps for the Hub.  Can also run on a GPU or [[Hardware Acceleration|accelerated hardware]]. 
+Sort of like a toolkit to use [[Computer Science/Languages/Python]] [[SDK|SDKs]] (**[Gradio](https://gradio.app/)** and **[Streamlit](https://streamlit.io/)**) and build deployable apps for the Hub.  Can also run on a GPU or [[Hardware Acceleration|accelerated hardware]]. 
 
 
 ## Getting Started

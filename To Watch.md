@@ -4,16 +4,18 @@
 - Breaking Bad
 - The Boys
 - Star Wars: Visions
+- Dark
+- When We First Met
+- Jujutsu Kaisen
+- 
 # Movies
 ---
 ### Misc
 - Star Wars Series
 ### Theater Watches
 - Gran Turismo
-- Transformers Rise of the Beasts 
-- Dune
+- Dune 2
 ### Upcoming Movies
-- Guardians of the Galaxy: Vol 3
 - War of the Worlds
 - Godzilla x Kong: The New Empire
 - Ahsoka
@@ -28,6 +30,8 @@
 # Games
 ---
 - Arkane Studios
+	- Dishonoured Series
+	- 
 
 
 

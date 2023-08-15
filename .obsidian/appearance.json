@@ -1,12 +1,14 @@
 {
   "cssTheme": "Things",
   "translucency": false,
-  "baseFontSize": 15,
+  "baseFontSize": 21,
   "textFontFamily": "",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "image-adjustments",
     "callout"
   ],
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }

@@ -7,10 +7,7 @@
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
   "showFrontmatter": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "showUnsupportedFiles": true,
   "readableLineLength": false
 }

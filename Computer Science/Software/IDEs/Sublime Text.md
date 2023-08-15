@@ -11,7 +11,7 @@
 > | Test | Testing |
 > | Test | Testing |
 
-Sublime Text is a shareware[^1] [[Cross-Platform| cross-platform]] source code editor. It natively supports many [[Programming Language|programming languages]] and [[Markup Language |markup languages]]. Users can expand its functionality with plugins, typically community-built and maintained under free-software licenses. To facilitate plugins, Sublime Text features a [[Python]] [[Application Programming Interface|API]].
+Sublime Text is a shareware[^1] [[Cross-Platform| cross-platform]] source code editor. It natively supports many [[Programming Language|programming languages]] and [[Markup Language |markup languages]]. Users can expand its functionality with plugins, typically community-built and maintained under free-software licenses. To facilitate plugins, Sublime Text features a [[Computer Science/Languages/Python]] [[Application Programming Interface|API]].
 
 - More info at [official site](https://www.sublimetext.com/)
 - 

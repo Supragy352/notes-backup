@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Model","id":"d436b2bb1e04006c","x":155,"y":165,"width":250,"height":50},
+		{"type":"text","text":"# Mechanics","id":"0d5d7d3aef264143","x":1240,"y":165,"width":250,"height":50},
+		{"type":"text","text":"# Code","id":"238e64e2eec22a83","x":-900,"y":165,"width":250,"height":50},
+		{"type":"file","file":"Projects/Robotic Arm v2/3 Dof Robotic Arm.md","id":"7b25458669f1f779","x":-180,"y":-620,"width":920,"height":470},
+		{"type":"file","file":"Projects/Robotic Arm v2/3 Dof Robotic Arm.md","id":"7103513a5d9c6f39","x":-180,"y":-620,"width":920,"height":470}
+	],
+	"edges":[
+		{"id":"0b0746c6b2f58d53","fromNode":"7b25458669f1f779","fromSide":"bottom","toNode":"238e64e2eec22a83","toSide":"top"},
+		{"id":"7b5ba71655ae3488","fromNode":"7b25458669f1f779","fromSide":"bottom","toNode":"0d5d7d3aef264143","toSide":"top"},
+		{"id":"e33fdfb646346d19","fromNode":"7b25458669f1f779","fromSide":"bottom","toNode":"d436b2bb1e04006c","toSide":"top"}
+	]
+}

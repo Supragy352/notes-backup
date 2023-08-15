@@ -1,40 +1,94 @@
+/* src/react/loom-app/table/styles.css */
+.dataloom-table {
+  display: table;
+  table-layout: fixed;
+  border-collapse: separate;
+}
+.dataloom-header {
+  display: table-header-group;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.dataloom-body {
+  display: table-row-group;
+}
+.dataloom-footer {
+  display: table-footer-group;
+}
+.dataloom-row {
+  display: table-row;
+}
+.dataloom-row--header {
+  background-color: var(--background-secondary);
+}
+.dataloom-cell {
+  display: table-cell;
+}
+.dataloom-cell--header {
+  background-color: var(--table-header-background);
+  border-bottom: 1px solid var(--table-border-color);
+  border-right: 1px solid var(--table-border-color);
+  &:last-of-type {
+    border-right: 0;
+    background-color: var(--background-primary);
+  }
+}
+.dataloom-cell--body {
+  border-bottom: 1px solid var(--table-border-color);
+  border-right: 1px solid var(--table-border-color);
+  vertical-align: top;
+  height: 1px;
+  &:last-of-type {
+    border-right: 0;
+  }
+}
+.dataloom-cell--footer {
+  background-color: var(--background-primary);
+  border-top: 1px solid var(--table-border-color);
+  border-bottom: 1px solid var(--table-border-color);
+}
+.dataloom-body > .dataloom-row:last-child > .dataloom-cell {
+  border-bottom: 0;
+}
+
 /* src/react/shared/text/styles.css */
-.NLT__p {
+.dataloom-p {
   white-space: nowrap;
   margin: 0;
   color: var(--text-normal);
 }
-.NLT__text-muted {
+.dataloom-text-muted {
   color: var(--text-muted);
 }
-.NLT__text-faint {
+.dataloom-text-faint {
   color: var(--text-faint);
 }
-.NLT__text-semibold {
+.dataloom-text-semibold {
   font-weight: var(--font-semibold);
 }
 
 /* src/react/shared/switch/styles.css */
-.NLT__switch {
+.dataloom-switch {
   width: calc(var(--toggle-width) * 0.75);
   height: calc((var(--toggle-thumb-height) * 0.75) + (var(--toggle-border-width) * 2 * 0.75));
 }
-.NLT__switch:after {
+.dataloom-switch:after {
   width: calc(var(--toggle-thumb-width) * 0.75);
   height: calc(var(--toggle-thumb-height) * 0.75);
 }
-.NLT__switch.is-enabled:after {
+.dataloom-switch.is-enabled:after {
   transform: translate3d(calc((var(--toggle-width) - var(--toggle-thumb-width) - var(--toggle-border-width)) * 0.75), 0, 0);
 }
-.NLT__switch input {
+.dataloom-switch input {
   width: calc(var(--checkbox-size) * 0.75);
   height: calc(var(--checkbox-size) * 0.75);
 }
-.NLT__switch:active:after {
+.dataloom-switch:active:after {
   width: calc((var(--toggle-thumb-width) * 0.75) + (var(--toggle-border-width)));
 }
 
-/* src/react/table-app/option-bar/filter/styles.css */
+/* src/react/loom-app/option-bar/filter/styles.css */
 .react-select {
   width: 150px !important;
 }
@@ -47,8 +101,74 @@
   box-shadow: none !important;
 }
 
-/* src/react/table-app/function-cell/styles.css */
-.NLT__function-cell {
+/* src/react/loom-app/header-cell-container/styles.css */
+.dataloom-cell--header__container {
+  display: flex;
+  justify-content: space-between;
+  min-height: var(--nlt-cell-min-height);
+}
+.dataloom-cell--header__inner-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  user-select: none;
+  padding: var(--nlt-cell-spacing-x) var(--nlt-cell-spacing-y);
+}
+
+/* src/react/loom-app/tag-cell/styles.css */
+._tag-cell {
+  width: 100%;
+}
+
+/* src/react/loom-app/number-cell/styles.css */
+.dataloom-number-cell {
+  width: 100%;
+  text-align: right;
+}
+
+/* src/react/loom-app/tag-color-menu/components/color-item/styles.css */
+.dataloom-color-item {
+  display: flex;
+  align-items: center;
+  padding: var(--nlt-spacing--xs) var(--nlt-spacing--lg);
+  width: 100%;
+}
+.dataloom-color-item-square {
+  width: 10px;
+  height: 10px;
+  padding: 0;
+  margin: 0 10px 0 0;
+}
+
+/* src/react/loom-app/tag-color-menu/styles.css */
+
+/* src/react/loom-app/multi-tag-cell/styles.css */
+.dataloom-multi-tag-cell {
+  display: flex;
+  flex-direction: column;
+}
+
+/* src/react/loom-app/body-cell-container/styles.css */
+.dataloom-cell--body__container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  min-height: var(--nlt-cell-min-height);
+  padding: var(--nlt-cell-spacing-x) var(--nlt-cell-spacing-y);
+  cursor: pointer;
+}
+
+/* src/react/loom-app/currency-cell/styles.css */
+.dataloom-currency-cell {
+  width: 100%;
+  text-align: right;
+}
+
+/* src/react/loom-app/footer-cell-container/styles.css */
+.dataloom-cell--footer__container {
   display: flex;
   justify-content: flex-end;
   cursor: pointer;
@@ -56,66 +176,12 @@
   padding: var(--nlt-cell-spacing-x) var(--nlt-cell-spacing-y);
 }
 
-/* src/react/shared/tag/styles.css */
-.NLT__tag {
-  display: flex;
-  align-items: center;
-  border-radius: 8px;
-  padding: var(--nlt-spacing--xs) var(--nlt-spacing--md);
-  width: max-content;
-  color: var(--text-normal);
-}
-
-/* src/react/table-app/tag-cell/styles.css */
-.NLT__tag-cell {
-  width: 100%;
-}
-
-/* src/react/table-app/number-cell/styles.css */
-.NLT__number-cell {
-  width: 100%;
-  text-align: right;
-}
-
-/* src/react/table-app/tag-color-menu/components/color-item/styles.css */
-.NLT__color-item {
-  display: flex;
-  align-items: center;
-  padding: var(--nlt-spacing--xs) var(--nlt-spacing--lg);
-  width: 100%;
-}
-.NLT__color-item-square {
-  width: 10px;
-  height: 10px;
-  padding: 0;
-  margin: 0 10px 0 0;
-}
-
-/* src/react/table-app/tag-color-menu/styles.css */
-
-/* src/react/table-app/multi-tag-cell/styles.css */
-.NLT__multi-tag-cell {
-  display: flex;
-  flex-direction: column;
-}
-
-/* src/react/table-app/currency-cell/styles.css */
-.NLT__currency-cell {
-  width: 100%;
-  text-align: right;
-}
-
-/* src/react/table-app/new-row-button/styles.css */
-.NLT__new-row {
-  padding: var(--nlt-spacing--md);
-}
-
-/* src/react/table-app/new-column-button/styles.css */
-.NLT__new-column {
+/* src/react/loom-app/new-column-button/styles.css */
+.dataloom-new-column {
   padding-left: var(--nlt-spacing--md);
 }
 
-/* src/react/table-app/styles.css */
+/* src/react/loom-app/styles.css */
 :root {
   --nlt-spacing--xs: 2px;
   --nlt-spacing--sm: 4px;
@@ -133,107 +199,162 @@
   --nlt-font-size--md: 1rem;
   --nlt-font-size--lg: 1.1rem;
 }
-.NLT__light-gray--light {
+.dataloom-light-gray--light {
   background-color: hsl(0, 3%, 94%);
 }
-.NLT__light-gray--dark {
+.dataloom-light-gray--dark {
   background-color: hsl(0, 0%, 22%);
 }
-.NLT__gray--light {
+.dataloom-gray--light {
   background-color: hsl(40, 5%, 88%);
 }
-.NLT__gray--dark {
+.dataloom-gray--dark {
   background-color: hsl(0, 0%, 35%);
 }
-.NLT__brown--light {
+.dataloom-brown--light {
   background-color: hsl(18, 31%, 89%);
 }
-.NLT__brown--dark {
+.dataloom-brown--dark {
   background-color: hsl(19, 32%, 27%);
 }
-.NLT__orange--light {
+.dataloom-orange--light {
   background-color: hsl(28, 67%, 88%);
 }
-.NLT__orange--dark {
+.dataloom-orange--dark {
   background-color: hsl(28, 52%, 32%);
 }
-.NLT__yellow--light {
+.dataloom-yellow--light {
   background-color: hsl(43, 82%, 89%);
 }
-.NLT__yellow--dark {
+.dataloom-yellow--dark {
   background-color: hsl(37, 43%, 36%);
 }
-.NLT__green--light {
+.dataloom-green--light {
   background-color: hsl(113, 30%, 89%);
 }
-.NLT__green--dark {
+.dataloom-green--dark {
   background-color: hsl(138, 23%, 28%);
 }
-.NLT__blue--light {
+.dataloom-blue--light {
   background-color: hsl(205, 41%, 89%);
 }
-.NLT__blue--dark {
+.dataloom-blue--dark {
   background-color: hsl(218, 38%, 30%);
 }
-.NLT__purple--light {
+.dataloom-purple--light {
   background-color: hsl(272, 29%, 90%);
 }
-.NLT__purple--dark {
+.dataloom-purple--dark {
   background-color: hsl(266, 34%, 28%);
 }
-.NLT__pink--light {
+.dataloom-pink--light {
   background-color: hsl(330, 36%, 91%);
 }
-.NLT__pink--dark {
+.dataloom-pink--dark {
   background-color: hsl(330, 31%, 30%);
 }
-.NLT__red--light {
+.dataloom-red--light {
   background-color: hsl(11, 64%, 91%);
 }
-.NLT__red--dark {
+.dataloom-red--dark {
   background-color: hsl(8, 35%, 30%);
 }
-.NLT__app ::-webkit-scrollbar {
-  display: none;
-}
-.NLT__menu ::-webkit-scrollbar {
-  display: none;
-}
-.NLT__selectable {
+.dataloom-selectable {
   cursor: pointer;
 }
-.NLT__selectable:hover {
+.dataloom-selectable:hover {
   background-color: var(--color-base-30);
 }
-.NLT__selected {
+.dataloom-selected {
   background-color: var(--color-base-20);
 }
-.workspace-leaf-content[data-type=notion-like-tables] .view-content {
-  padding: 0;
-}
-.NLT__default-cursor {
+.dataloom-default-cursor {
   cursor: default !important;
 }
-.NLT__focusable:focus-visible,
-.NLT__focus-visible {
+.dataloom-focusable:focus-visible,
+.dataloom-focus-visible {
   outline: 2px solid var(--color-accent) !important;
   outline-offset: -2px !important;
 }
-.NLT__focusable--inverted:focus-visible {
+.dataloom-focusable--inverted:focus-visible {
   outline: 2px solid var(--text-on-accent-inverted);
   outline-offset: 0px;
 }
-.NLT__blur--cell {
+.dataloom-blur--cell {
   outline: 2px solid var(--background-modifier-border-focus) !important;
   outline-offset: -2px;
 }
-.NLT__blur {
+.dataloom-blur {
   outline: 2px solid var(--color-accent) !important;
   outline-offset: -2px;
 }
-.NLT__tr--drag-over {
+.dataloom-tr--drag-over {
   border-bottom: 1px solid var(--color-accent) !important;
 }
-.NLT__th--drag-over {
+.dataloom-th--drag-over {
   border-bottom: 1px solid var(--color-accent) !important;
+}
+
+/* src/react/loom-app/bottom-bar/styles.css */
+.dataloom-bottom-bar {
+  position: relative;
+  height: 60px;
+}
+.dataloom-bottom-bar > div {
+  position: absolute;
+  width: 100%;
+}
+
+/* src/obsidian/html-utils/styles.css */
+.dataloom-modal__divider {
+  margin: 1.5em 0;
+  border-top: 1px solid var(--background-modifier-border);
+}
+.dataloom-modal-text--emphasize {
+  color: var(--text-accent);
+}
+
+/* src/obsidian/modal/welcome-modal/styles.css */
+.data-welcome-modal__title {
+  margin-top: 0em;
+  margin-bottom: 1em;
+}
+.dataloom-welcome-modal__card-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
+.dataloom-welcome-modal__card {
+  display: flex;
+  padding: 1em 1.5em;
+  column-gap: 1.5em;
+  align-items: center;
+  border: 1px solid var(--background-modifier-border);
+}
+.dataloom-welcome-modal__card-icon {
+  width: 1.5em;
+  height: 1.5em;
+}
+.dataloom-welcome-modal__card-title {
+  margin: 0;
+}
+.dataloom-welcome-modal__card-description {
+  margin-top: 0.25em;
+  margin-bottom: 0.5em;
+}
+
+/* src/obsidian/modal/whats-new-modal/styles.css */
+.dataloom-whats-new-modal__tag {
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+.dataloom-whats-new-modal__date {
+  margin-left: 0.75em;
+  font-size: 0.75em;
+  color: var(--text-muted);
+}
+
+/* src/obsidian/modal/donation-modal/styles.css */
+.dataloom-donation-modal__container {
+  margin-bottom: 1.5rem;
 }

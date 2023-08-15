@@ -1,0 +1,34 @@
+- [ ] Bathroom
+- [ ] C Programming 
+	- [ ] YouTube
+	- [ ] Zed Shaw
+	- [ ] R&K C Book
+	- [ ] Raylib
+		- [ ] Papers Please
+		- [ ] Read through the Examples
+			- [ ] Create a Basic Game
+		- [ ] Read the Documentation
+		- [ ] RayPhysics
+- [ ] Python
+	- [ ] Pygame
+	- [ ] Pandas
+	- [ ] DataScience
+- [ ] C++
+	- [ ] Cherno
+	- [ ] OpenGL
+- [ ] Obsidian
+	- [ ] Plugins
+		- [ ] Plugin to Identify Books
+	- [ ] [[Plugin Ideas]]
+	- [ ] Video Course
+- [ ] 3 DOF Robotic Arm
+- [ ] Raspberry Pi
+	- [ ] PiHole
+	- [ ] Media Server
+- [ ] Linux
+	- [ ] How Linux Works Book
+	- [ ] Arch DWM
+- [ ] [[To Watch|Movies]]
+
+
+

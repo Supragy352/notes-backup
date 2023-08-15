@@ -8,3 +8,13 @@ A successor to the programming language [B](https://en.wikipedia.org/wiki/B_(pr
 C is an [imperative](https://en.wikipedia.org/wiki/Imperative_programming "Imperative programming") [procedural](https://en.wikipedia.org/wiki/Procedural_programming "Procedural programming") language supporting [structured programming](https://en.wikipedia.org/wiki/Structured_programming "Structured programming"), [lexical variable scope](https://en.wikipedia.org/wiki/Lexical_variable_scope "Lexical variable scope"), and [recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science) "Recursion (computer science)"), with a [static type system](https://en.wikipedia.org/wiki/Static_type_system "Static type system"). It was designed to be [compiled](https://en.wikipedia.org/wiki/Compiler "Compiler") to provide [low-level](https://en.wikipedia.org/wiki/Low-level_programming_language "Low-level programming language") access to [memory](https://en.wikipedia.org/wiki/Computer_memory "Computer memory") and language constructs that map efficiently to [machine instructions](https://en.wikipedia.org/wiki/Machine_code "Machine code"), all with minimal [runtime support](https://en.wikipedia.org/wiki/Runtime_system). Despite its low-level capabilities, the language was designed to encourage cross-platform programming. A [standards](https://en.wikipedia.org/wiki/Specification_(technical_standard) "Specification (technical standard)")-compliant C program written with [portability](https://en.wikipedia.org/wiki/Software_portability "Software portability") in mind can be compiled for a wide variety of computer platforms and operating systems with few changes to its source code.[[10]](https://en.wikipedia.org/wiki/C_(programming_language)#cite_note-cppreference-10)
 
 Since 2000, C has consistently ranked among the top two languages in the [TIOBE index](https://en.wikipedia.org/wiki/TIOBE_index "TIOBE index"), a measure of the popularity of programming languages.
+
+
+
+
+### Difference between `cstdlib` file functions **v/s** POSIX compliant OS-function
+
+
+
+
+
