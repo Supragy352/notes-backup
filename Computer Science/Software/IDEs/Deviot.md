@@ -1,3 +1,39 @@
+---
+tags:
+- '8594'
+- '8594'
+- arduino
+- computerscience
+- robotics
+- programming
+- platformio
+- sublimetext
+- piocore
+---
+
+---
+tags:
+- stino
+- PlatformIO
+- PlatformIO
+- PlatformIO CLI
+- Read more
+- '**See the wiki &#8594;**'
+- this template
+- Languages availables
+- ISO 639*1
+- PlatformIO
+- this link
+- Read
+- ^1
+- '[PlatformIO Core CLI'
+- ^2
+- Deviot Github
+- Page
+- ^1
+- ^2
+---
+
 # Deviot
 
 ## Github Readme

@@ -1,3 +1,13 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Gundam|GUNDAM'
+- '[Pasted image 20220831013419.png'
+---
+
 He basically wanted to check ki kya hi hype hai bc. Changing Nibs and making some strokes. Its a lot stiffer than the one he already had. 
 Eh
 

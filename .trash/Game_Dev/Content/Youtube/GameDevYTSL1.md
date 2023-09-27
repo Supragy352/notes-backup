@@ -1,3 +1,29 @@
+---
+tags:
+- f2c23d
+- f2c23d
+- f2c23d
+- '1'
+- f2c23d
+- f2c23d
+- f2c23d
+- game
+- gamedev
+- sebastianlague
+- csharp
+- YTSLGD
+- E1
+---
+
+---
+tags:
+- '[Sebastian Lague'
+- '[Variables|variable'
+- '[Method'
+- '[GameDevYTSL0|<<'
+- '[GameDevYTSL2|>>'
+---
+
 <span style="color: #f2c23d;">Type:</span> YouTube Video Playlist
 <span style="color: #f2c23d;">Name of Playlist:</span> Introduction to Game Development (Unity and C#)
 <span style="color: #f2c23d;">Video: </span>Video#1, E1

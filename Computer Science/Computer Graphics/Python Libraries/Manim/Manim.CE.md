@@ -1,3 +1,48 @@
+---
+tags:
+- installation
+- usage
+- documentation
+- docker
+- help
+- contributing
+- license
+---
+
+---
+tags:
+- '[cropped.png|center'
+- 3Blue1Brown
+- 3b1b/manim
+- Installation
+- Usage
+- Documentation
+- Docker
+- Help with Manim
+- Contributing
+- License
+- 3b1b/manim
+- this
+- in our online Jupyter environment
+- Documentation
+- GitHub repository
+- official gallery
+- corresponding documentation
+- try it out online
+- manim-illustration
+- documentation
+- ReadTheDocs
+- on DockerHub
+- documentation
+- Reddit Community
+- documentation
+- Discord server
+- documentation
+- manim dev-installation guide
+- repository page
+- our website
+---
+
 ![[cropped.png|center]]
 <p align="center">
 <a href="https://hub.docker.com/r/manimcommunity/manim"><img src="https://img.shields.io/docker/v/manimcommunity/manim?color=%23099cec&label=docker%20image&logo=docker" alt="Docker image"> </a><a href="https://mybinder.org/v2/gh/ManimCommunity/jupyter_examples/HEAD?filepath=basic_example_scenes.ipynb"><img src="https://mybinder.org/badge_logo.svg"></a> <a href="http://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat" alt="MIT License"></a> <a href="https://www.reddit.com/r/manim/"><img src="https://img.shields.io/reddit/subreddit-subscribers/manim.svg?color=orange&label=reddit&logo=reddit" alt="Reddit" href=></a> <a href="https://www.reddit.com/r/manim/"><img src="https://img.shields.io/reddit/subreddit-subscribers/manim.svg?color=orange&label=reddit&logo=reddit" alt="Reddit" href=></a>

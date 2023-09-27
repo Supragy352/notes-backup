@@ -1,3 +1,25 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20230524201839.png'
+- '[Pasted image 20230524201929.png'
+- '[Pasted image 20230524203113.png'
+- '[Pasted image 20230524204447.png'
+- '[Pasted image 20230524204808.png'
+- '[Pasted image 20230524204812.png'
+- '[Pasted image 20230524204837.png'
+- '[Pasted image 20230524204940.png'
+- '[Pasted image 20230524205014.png'
+- '[Pasted image 20230524205108.png'
+- '[Pasted image 20230524205136.png'
+- '[Pasted image 20230524205151.png'
+- '[Pasted image 20230524205259.png'
+- '[Pasted image 20230524205342.png'
+---
+
 
 <iframe title="How principled coders outperform the competition" src="https://www.youtube.com/embed/q1qKv5TBaOA?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 

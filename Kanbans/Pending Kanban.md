@@ -1,4 +1,20 @@
 ---
+tags: []
+---
+
+---
+tags:
+- ' '
+- ' '
+- ' '
+- ' '
+- ' '
+- ' '
+- ' '
+- x
+---
+
+---
 
 kanban-plugin: basic
 
@@ -6,10 +22,20 @@ kanban-plugin: basic
 
 ## 
 
-- [ ] Bathroom Cleaning
+- [ ] Coffee
+- [ ] Kettle
+- [ ] Chana and Matki
+- [ ] Balti
+- [ ] Mug
+- [ ] Pillow
+- [ ] Bedsheet
 
 
+***
 
+## Archive
+
+- [x] Bathroom Cleaning
 
 %% kanban:settings
 ```

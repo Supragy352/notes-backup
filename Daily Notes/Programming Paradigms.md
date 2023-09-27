@@ -1,3 +1,14 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20230615124951.png|center'
+- '[Pasted image 20230615124800.png|center'
+- Von Neumann
+---
+
 ![[Pasted image 20230615124951.png|center]]
 **Paradigm** can be seen as a method to solve a problem of complete a task. A programming paradigm is an approach to solve problem using some programming language or using some set of tools and approaches.
 

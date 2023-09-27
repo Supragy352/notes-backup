@@ -1,3 +1,37 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[programming language'
+- '[Statistical Computing'
+- Ross Ihaka
+- Robert Gentleman
+- data miners
+- bioinformaticians
+- statisticians
+- '[data analysis'
+- statistical software
+- TIOBE index
+- '[Open-Source|open-source'
+- GNU package
+- GNU General Public License
+- '[C'
+- Fortran
+- '[Executable|executables'
+- '[Operating Systems'
+- '[Command Line Interface|CLI'
+- '[graphical user interfaces|GUIs'
+- RStudio
+- '[integrated development environment|IDE'
+- Jupyter
+- notebook interface
+- Code Academy
+- ^1
+- ^1
+---
+
 # Introduction
 **R** is a [[programming language]] for [[Statistical Computing]] and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians [Ross Ihaka](https://en.wikipedia.org/wiki/Ross_Ihaka "Ross Ihaka") and [Robert Gentleman](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician) "Robert Gentleman (statistician)"), R is used among [data miners](https://en.wikipedia.org/wiki/Data_mining "Data mining"), [bioinformaticians](https://en.wikipedia.org/wiki/Bioinformatics "Bioinformatics") and [statisticians](https://en.wikipedia.org/wiki/Statistician "Statistician") for [[data analysis]] and developing [statistical software](https://en.wikipedia.org/wiki/Statistical_software "Statistical software").Users have created packages to augment the functions of the R language.
 

@@ -1,4 +1,37 @@
 ---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20230503110300.png'
+- '[machine learning'
+- '[transformers'
+- '[natural language processing'
+- '[machine learning'
+- '[models'
+- '[datasets'
+- '[Pasted image 20230501154551.png'
+- '[Model Cards'
+- '[TensorBoard traces'
+- inference widget
+- '[Application Programming Interface|API'
+- '[File Serving|serving'
+- The Hub
+- '[Dataset|datasets'
+- '[NLP'
+- '[Computer Vision'
+- '[Dataset Cards'
+- '[Dataset Previews|Previews'
+- 🤗 `datasets`
+- '[Computer Science/Languages/Python'
+- '[SDK|SDKs'
+- Gradio
+- Streamlit
+- '[Hardware Acceleration|accelerated hardware'
+---
+
+---
 banner: "![[Pasted image 20230503110300.png]]"
 banner_y: 0.5
 ---

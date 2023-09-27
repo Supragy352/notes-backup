@@ -1,4 +1,25 @@
 ---
+tags:
+- PuzzleVideoGame
+- Indie
+- Adventure
+---
+
+---
+tags:
+- '[Pasted image 20230627044131.png'
+- '[Pasted image 20230627044220.png'
+- Sad Owl Studios
+- PlayStation 5
+- '[Microsoft Windows'
+- Thunderful Group
+- Thunderful Publishing
+- '[Unity'
+- '[Johnathan Blow|Johnathan Blow''s'
+- '[The Witness'
+---
+
+---
 banner: "![[Pasted image 20230627044131.png]]"
 banner_y: 0.692
 ---

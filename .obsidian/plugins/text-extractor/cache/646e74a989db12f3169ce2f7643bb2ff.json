@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/646e74a989db12f3169ce2f7643bb2ff.json","text":"app.hs U app.hs 5 ) 0 e - main = do let x = [1..10] IMMUTABLE putStrLn \"This is an array...\" print (x) (o] UN el uf ol N o W T B =11 [ o Y20 print (null x) NO SIDE-EFFECTS","libVersion":"0.2.2","langs":"eng"}

@@ -1,3 +1,23 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20230509103458.png|center'
+- https://odin-lang.org/
+- Getting Started
+- Nightly Builds
+- Overview of Odin
+- Frequently Asked Questions (FAQ)
+- Packages
+- core
+- vendor
+- The Odin Wiki
+- Odin Discord
+- The Odin Blog
+---
+
 ![[Pasted image 20230509103458.png|center]]
 <p align="center">
    The Data-Oriented Language for Sane Software Development.

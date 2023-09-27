@@ -1,3 +1,22 @@
+---
+tags:
+- dailynote
+- motivation
+- pending
+- IIT
+- JEE
+- nvim
+- nvimplugins
+---
+
+---
+tags:
+- '[Pending'
+- 10 best Survival Games that get ignored
+- Colormind
+- ^1
+---
+
 - Created [[Pending]]
 
 # Daily Note for 09-Aug '23

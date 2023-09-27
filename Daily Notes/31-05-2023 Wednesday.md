@@ -1,3 +1,21 @@
+---
+tags:
+- todo
+- dl
+- dailynote
+---
+
+---
+tags:
+- ' '
+- ' '
+- ' '
+- ' '
+- x
+- '[10 Cancelled Game Series We STILL THINK ABOUT'
+- ^1
+---
+
 
 # Daily Note for 31-May '23
 #todo

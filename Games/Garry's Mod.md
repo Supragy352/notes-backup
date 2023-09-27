@@ -1,3 +1,12 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20230525105025.png'
+---
+
 # Guns
 
 ### Cangun

@@ -1,3 +1,11 @@
+---
+tags: []
+---
+
+---
+tags: []
+---
+
 ### New Game Plus
 - Most change 
 - Auto unlocked in Devil May Cry 5 Special Edition, but had to beat the game to get it in 4

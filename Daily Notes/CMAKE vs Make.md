@@ -1,3 +1,13 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[open-source'
+- '[cross-platform'
+---
+
 # What is CMAKE? And how is it different from make?
 
 CMake is an [[open-source]] [[cross-platform]] build system and build toolchain generator. It is designed to simplify the build process for software projects by providing a platform-independent way to describe and manage the build configuration. CMake generates build files, such as Makefiles, Visual Studio solutions, or Xcode projects, based on a high-level description provided by the developer.

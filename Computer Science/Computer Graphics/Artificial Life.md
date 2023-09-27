@@ -1,3 +1,22 @@
+---
+tags:
+- f2c23d
+- f2c23d
+- f2c23d
+- f2c23d
+- random
+- simulation
+- computerscience
+- code
+- html
+---
+
+---
+tags:
+- '[Pasted image 20220828022512.png|center'
+- here
+---
+
 <span style="color: #f2c23d;">Name of Video:</span>  Artificial Life (Simulation and Code)
 <span style="color: #f2c23d;">Link: </span> https://www.youtube.com/watch?v=0Kx4Y9TVMGg
 <span style="color: #f2c23d;">Author: </span> Brainxyz

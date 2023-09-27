@@ -1,3 +1,11 @@
+---
+tags: []
+---
+
+---
+tags: []
+---
+
 ### New Game Plus
 - Called **Killer 8** mode
 - Locks at *Bloodbath*

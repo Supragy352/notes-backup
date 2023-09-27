@@ -1,3 +1,12 @@
+---
+tags: []
+---
+
+---
+tags:
+- Free Code Camp
+---
+
 # About
 
 [Free Code Camp](https://www.freecodecamp.org/) (FCC) is a non-profit organization that offers a comprehensive, self-paced curriculum for learning web development. The program is completely free and open to anyone who wants to learn to code. It includes a series of online courses that cover everything from HTML and CSS to JavaScript and Node.js. 

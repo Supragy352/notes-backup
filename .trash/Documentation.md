@@ -1,3 +1,17 @@
+---
+tags:
+- local
+- docker
+- interactive
+- editor
+---
+
+---
+tags:
+- Docker
+- Jupyter notebooks
+---
+
 # Installation
 
 Depending on your use case, different installation options are

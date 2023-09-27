@@ -1,4 +1,31 @@
 ---
+tags: []
+---
+
+---
+tags:
+- ' '
+- '[Docker'
+- ' '
+- '[Git'
+- ' '
+- '[Laptop Project'
+- ' '
+- ' '
+- '[C++'
+- ' '
+- '[CSharp'
+- ' '
+- '[Computer Science/Languages/Python'
+- ' '
+- '[C-Sharp|C#'
+- ' '
+- '[R'
+- ' '
+- '[Rust'
+---
+
+---
 
 kanban-plugin: basic
 

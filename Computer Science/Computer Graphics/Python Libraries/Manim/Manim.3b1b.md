@@ -1,3 +1,42 @@
+---
+tags:
+- different
+- building
+- using
+---
+
+---
+tags:
+- '[Manim3b1b.png|center'
+- '![pypi version'
+- '![MIT License'
+- '![Manim Subreddit'
+- '![Manim Discord'
+- '![docs'
+- 3Blue1Brown
+- here
+- '[Manim.CE|community edition'
+- this page
+- ManimCommunity/manim
+- FFmpeg
+- OpenGL
+- LaTeX
+- Pango
+- here
+- Using manim
+- Install FFmpeg
+- MiKTeX
+- this is the one
+- example scenes
+- 3blue1brown videos
+- 3b1b.github.io/manim
+- '**@manim-kindergarten**'
+- docs.manim.org.cn
+- manim-kindergarten
+- manim_sandbox repo
+- community edition
+---
+
 # Manim
 ![[Manim3b1b.png|center]]
 [![pypi version](https://img.shields.io/pypi/v/manimgl?logo=pypi)](https://pypi.org/project/manimgl/) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/) [![Manim Subreddit](https://img.shields.io/reddit/subreddit-subscribers/manim.svg?color=ff4301&label=reddit&logo=reddit)](https://www.reddit.com/r/manim/) [![Manim Discord](https://img.shields.io/discord/581738731934056449.svg?label=discord&logo=discord)](https://discord.com/invite/bYCyhM9Kz2) [![docs](https://github.com/3b1b/manim/workflows/docs/badge.svg)](https://3b1b.github.io/manim/)

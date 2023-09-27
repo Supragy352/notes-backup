@@ -1,3 +1,21 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20220824040826.png|center'
+- ^1
+- ^2
+- ^3
+- '[ExplainingComputers'
+- Linkedin
+- GoodReads
+- ^1
+- ^2
+- ^3
+---
+
 # Author
 ![[Pasted image 20220824040826.png|center]]
 ### Introduction

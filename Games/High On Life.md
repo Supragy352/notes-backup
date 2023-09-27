@@ -1,3 +1,15 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20230525103520.png'
+- '[Pasted image 20230525103540.png'
+- '[Pasted image 20230525103602.png'
+- '[Pasted image 20230525103612.png'
+---
+
 # Guns
 Guns are called Gatleons
 - Kenny (Pistol)![[Pasted image 20230525103520.png]]

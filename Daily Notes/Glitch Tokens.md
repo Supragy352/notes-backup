@@ -1,3 +1,15 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Computerphile|Computerphile YouTube channel.'
+- '[GPT'
+- '[LLM'
+- '[Reddit'
+---
+
 Glitch tokens are pieces of words or **tokens** in **GPT** that cause the system to glitch out and give crazy outputs.
 More in the embedded video below from [[Computerphile|Computerphile YouTube channel.]]
 

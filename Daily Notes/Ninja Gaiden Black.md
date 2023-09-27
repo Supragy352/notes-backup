@@ -1,3 +1,11 @@
+---
+tags: []
+---
+
+---
+tags: []
+---
+
 ### Hard Mode
 - After beating game on normal
 - Includes multiple new enemies

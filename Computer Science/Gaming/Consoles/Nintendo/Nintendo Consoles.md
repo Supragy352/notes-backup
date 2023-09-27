@@ -1,4 +1,41 @@
 ---
+tags:
+- game
+---
+
+---
+tags:
+- '[Pasted image 20230516200002.png'
+- '[Nintendo'
+- '[Color TV-Game'
+- '[Nintendo Entertainment System|NES'
+- '[Nintendo Entertainment System'
+- '[videogame crash of 1983'
+- '[Nintendo'
+- '[GameBoy'
+- '[Super Nintendo Entertainment System'
+- '[Super Nintendo Entertainment System|SNES'
+- '[Sony|Sony''s'
+- '[PlayStation'
+- '[N64'
+- '[Dreamcast'
+- '[PlayStation 2'
+- '[Xbox'
+- '[Nintendo'
+- '[GameCube'
+- '[Game Boy Color'
+- '[Game Boy Advance'
+- '[DS'
+- '[Wii'
+- '[Nintendo'
+- '[stereoscopic 3D capabilities'
+- '[3DS'
+- '[Wii U'
+- '[Nintendo Switch'
+- '[Wii U'
+---
+
+---
 banner: "![[Pasted image 20230516200002.png]]"
 banner_y: 0.852
 ---

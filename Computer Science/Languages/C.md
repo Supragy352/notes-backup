@@ -1,5 +1,61 @@
-![[Pasted image 20220824031059.png|center]]
+---
+tags:
+- cite_note
+---
 
+---
+tags:
+- language, programming, computerscience
+- Infopage
+- '[Pasted image 20220824031059.png|center'
+- general-purpose
+- programming language
+- Dennis Ritchie
+- operating systems
+- device drivers
+- protocol stacks
+- application software
+- supercomputers
+- microcontrollers
+- embedded systems
+- B
+- Bell Labs
+- Dennis Ritchie
+- Unix
+- most widely used programming languages
+- compilers
+- computer architectures
+- '[Operating Systems'
+- ANSI
+- ANSI C
+- International Organization for Standardization
+- imperative
+- procedural
+- structured programming
+- lexical variable scope
+- recursion
+- static type system
+- compiled
+- low-level
+- memory
+- machine instructions
+- runtime support
+- standards
+- portability
+- '[10'
+- TIOBE index
+---
+
+---
+tags: [language, programming, computerscience]
+alias: C language
+Type: [Infopage]
+---
+
+```dataview
+```
+
+![[Pasted image 20220824031059.png|center]]
 # Introduction
 **C** is a [general-purpose](https://en.wikipedia.org/wiki/General-purpose_language "General-purpose language") computer [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language"). It was created in the 1970s by [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie "Dennis Ritchie"), and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in [operating systems](https://en.wikipedia.org/wiki/Operating_system "Operating system"), [device drivers](https://en.wikipedia.org/wiki/Device_drivers "Device drivers"), [protocol stacks](https://en.wikipedia.org/wiki/Protocol_stack "Protocol stack"), though decreasingly for [application software](https://en.wikipedia.org/wiki/Application_software "Application software"). C is commonly used on computer architectures that range from the largest [supercomputers](https://en.wikipedia.org/wiki/Supercomputer "Supercomputer") to the smallest [microcontrollers](https://en.wikipedia.org/wiki/Microcontroller "Microcontroller") and [embedded systems](https://en.wikipedia.org/wiki/Embedded_system "Embedded system").
 

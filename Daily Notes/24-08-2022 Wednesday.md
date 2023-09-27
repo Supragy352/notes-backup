@@ -1,3 +1,30 @@
+---
+tags:
+- todo
+- dailynote
+- instagram
+- creative
+---
+
+---
+tags:
+- x
+- x
+- ' '
+- x
+- '[ffmpeg'
+- ^1
+- Observable
+- '[ExplainingComputers'
+- YouTube
+- ' '
+- x
+- ^2
+- ' '
+- ^1
+- ^2
+---
+
 #todo
 - [x] Maths - Lectures
 - [x] German

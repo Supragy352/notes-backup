@@ -1,3 +1,16 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[object'
+- '[Namespace|namespaces'
+- '[Pasted image 20230515101052.png'
+- '[Object|object'
+- '[CSharp'
+---
+
 # Methods
 - Methods are functions defined in [[object]] [[Namespace|namespaces]].
 

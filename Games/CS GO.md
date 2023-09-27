@@ -1,3 +1,14 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20230525102515.png'
+- '[Pasted image 20230525104743.png'
+- '[Pasted image 20230525104846.png'
+---
+
 # Guns and Mods
 
 ## Karasu

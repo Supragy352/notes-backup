@@ -1,3 +1,26 @@
+---
+tags:
+- todo
+- dailynote
+- creative
+---
+
+---
+tags:
+- ' '
+- ' '
+- ' '
+- ' '
+- ' '
+- Instagram
+- x
+- ' '
+- ' '
+- ' '
+- x
+- ^1
+---
+
 # Daily Note for 14-Sep '22
 #todo
 - [ ] Maths

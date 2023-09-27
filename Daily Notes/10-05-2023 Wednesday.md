@@ -1,3 +1,22 @@
+---
+tags:
+- todo
+- dl
+- dailynote
+---
+
+---
+tags:
+- ' '
+- ' '
+- ' '
+- ' '
+- x
+- '[Astortion-1|1'
+- '[Astortion-2|2'
+- ^1
+---
+
 # Daily Note for 10-May '23
 #todo
 - [ ] Physics

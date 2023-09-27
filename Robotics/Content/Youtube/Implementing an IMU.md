@@ -1,3 +1,21 @@
+---
+tags:
+- f2c23d
+- f2c23d
+- f2c23d
+- f2c23d
+- f2c23d
+- random
+- simulation
+- robotics
+- maths
+- sensor
+---
+
+---
+tags: []
+---
+
 <span style="color: #f2c23d;">Name of Video:</span> How to Implement an Inertial Measurement Unit (IMU) Using an Accelerometer, Gyro, and Magnetometer
 <span style="color: #f2c23d;">Link: </span>https://www.youtube.com/watch?v=T9jXoG0QYIA
 <span style="color: #f2c23d;">Author: </span> Scott Lobdell

@@ -1,3 +1,24 @@
+---
+tags:
+- f2c23d
+- f2c23d
+- f2c23d
+- f2c23d
+- random
+- desgin
+- polyfjord
+- ai
+- computerscience
+---
+
+---
+tags:
+- Build
+- Stable Diffusion by Grisk
+- https://video2x.org
+- ^1
+---
+
 <span style="color: #f2c23d;">Name of Video:</span> How to Generate AI Art Using Stable Diffusion
 <span style="color: #f2c23d;">Link: </span> https://www.youtube.com/watch?v=0zQyCihHjQU
 <span style="color: #f2c23d;">Author: </span>polyfjord

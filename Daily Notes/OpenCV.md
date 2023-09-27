@@ -1,3 +1,63 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[open-source'
+- '[computer vision'
+- '[machine learning'
+- '[software library'
+- '[cross-platform'
+- '[Microsoft Windows'
+- '[Linux'
+- '[MacOS'
+- '[computer vision'
+- '[image and video processing'
+- '[algorithms'
+- '[image processing'
+- '[object detection'
+- '[object recognition'
+- '[machine learning'
+- '[filtering'
+- '[thresholding'
+- '[morphological operations'
+- '[color space conversions'
+- '[geometric transformations'
+- '[algorithms'
+- '[Haar cascades'
+- '[HOG (Histogram of Oriented Gradients),'
+- '[Deep Learning'
+- '[YOLO (You Only Look Once)'
+- '[SSD (Single Shot Detector)'
+- '[algorithms'
+- '[classification'
+- '[clustering'
+- '[regression'
+- '[SVM (Support Vector Machines)'
+- '[Random Forests'
+- '[Neural Networks'
+- '[functions'
+- '[camera calibration'
+- '[3D reconstruction'
+- '[object tracking'
+- '[C++'
+- '[programming languages'
+- '[Computer Science/Languages/Python'
+- '[Java'
+- '[MATLAB'
+- '[BSD license'
+- '[computer vision'
+- '[machine learning'
+- '[image and video processing'
+- '[object detection'
+- '[Object Recognition|recognition'
+- '[machine learning'
+- '[camera calibration'
+- '[open-source'
+- '[cross-platform support'
+---
+
 ## Wikipedia
 
 

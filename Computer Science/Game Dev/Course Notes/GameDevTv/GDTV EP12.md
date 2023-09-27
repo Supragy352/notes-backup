@@ -1,3 +1,11 @@
+---
+tags: []
+---
+
+---
+tags: []
+---
+
 # Translate()
 
 The `translate()` method is a member of the transform attached to the specific `GameObject`. 

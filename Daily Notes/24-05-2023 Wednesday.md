@@ -1,3 +1,27 @@
+---
+tags:
+- todo
+- dl
+- dailynote
+- python
+- c
+- programming
+---
+
+---
+tags:
+- ' '
+- ' '
+- ' '
+- x
+- x
+- '[Deadly Sins in Programming|How principled coders outperform the competition'
+- Coderized
+- x
+- '[Cython'
+- ^1
+---
+
 
 # Daily Note for 24-May '23co
 #todo

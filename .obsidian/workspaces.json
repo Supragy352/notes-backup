@@ -1,254 +1,5 @@
 {
   "workspaces": {
-    "Full Screen Screen 2": {
-      "main": {
-        "id": "f8d5c6aa67777601",
-        "type": "split",
-        "children": [
-          {
-            "id": "efb1a503f3850f66",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "38fc904b27d2c008",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Games to Play.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "d2ab3f96a81e127d",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily Notes/Ideas.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "423a0fbc5c78ff8b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily Notes/09-08-2023 Wednesday.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "ad62275f718ef505",
-        "type": "split",
-        "children": [
-          {
-            "id": "9f446db44f7b6729",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "44f27c26a1ecbd8a",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "eb61dee181086693",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "5f7caf0d862ec2ba",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "horizontal",
-        "width": 294.5,
-        "collapsed": true
-      },
-      "right": {
-        "id": "e2955500816bf9db",
-        "type": "split",
-        "children": [
-          {
-            "id": "9e7437c8dd9a76a9",
-            "type": "tabs",
-            "dimension": 50.83333333333334,
-            "children": [
-              {
-                "id": "c4d752339eb60f5d",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Daily Notes/09-08-2023 Wednesday.md"
-                  }
-                }
-              },
-              {
-                "id": "f8f5295910522eb2",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              },
-              {
-                "id": "ad43f1fd6f6a37a1",
-                "type": "leaf",
-                "state": {
-                  "type": "dictionary-view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "36bd6d5637edb5d8",
-                "type": "leaf",
-                "state": {
-                  "type": "todo",
-                  "state": {}
-                }
-              },
-              {
-                "id": "57b921038bff687f",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Daily Notes/09-08-2023 Wednesday.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "84657b54149a7b93",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Daily Notes/09-08-2023 Wednesday.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "988950fc9b980f1c",
-            "type": "tabs",
-            "dimension": 49.16666666666666,
-            "children": [
-              {
-                "id": "217a8e1535104451",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Daily Notes/09-08-2023 Wednesday.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": -2,
-                      "nodeSizeMultiplier": 0.814583333333333,
-                      "lineSizeMultiplier": 1.22291666666667,
-                      "collapse-forces": true,
-                      "centerStrength": 0.458333333333333,
-                      "repelStrength": 14.0625,
-                      "linkStrength": 1,
-                      "linkDistance": 79,
-                      "scale": 0.6666666666666679,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 282.5
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "random-note:Open random note": false,
-          "audio-recorder:Start/stop recording": false,
-          "workspaces:Manage workspace layouts": false,
-          "markdown-importer:Open format converter": false,
-          "obsidian-camera:Obsidian Camera": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "obsidian-excalidraw-plugin:Create new drawing": false,
-          "omnisearch:Omnisearch": false,
-          "notion-like-tables:Create new loom": false
-        }
-      },
-      "active": "423a0fbc5c78ff8b"
-    },
     "Full Screen Screen 1": {
       "main": {
         "id": "f8d5c6aa67777601",
@@ -512,7 +263,504 @@
         }
       },
       "active": "d2ab3f96a81e127d"
+    },
+    "Full Screen Screen 2": {
+      "main": {
+        "id": "f8d5c6aa67777601",
+        "type": "split",
+        "children": [
+          {
+            "id": "0269cacc02f16408",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dc915b1fee271bc6",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ad62275f718ef505",
+        "type": "split",
+        "children": [
+          {
+            "id": "9f446db44f7b6729",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "44f27c26a1ecbd8a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "eb61dee181086693",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5f7caf0d862ec2ba",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 294.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "e2955500816bf9db",
+        "type": "split",
+        "children": [
+          {
+            "id": "9e7437c8dd9a76a9",
+            "type": "tabs",
+            "dimension": 50.83333333333334,
+            "children": [
+              {
+                "id": "c4d752339eb60f5d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f8f5295910522eb2",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ad43f1fd6f6a37a1",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "36bd6d5637edb5d8",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "57b921038bff687f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "84657b54149a7b93",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "988950fc9b980f1c",
+            "type": "tabs",
+            "dimension": 49.16666666666666,
+            "children": [
+              {
+                "id": "217a8e1535104451",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": -2,
+                      "nodeSizeMultiplier": 0.814583333333333,
+                      "lineSizeMultiplier": 1.22291666666667,
+                      "collapse-forces": true,
+                      "centerStrength": 0.458333333333333,
+                      "repelStrength": 14.0625,
+                      "linkStrength": 1,
+                      "linkDistance": 79,
+                      "scale": 0.6666666666666679,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 282.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "markdown-importer:Open format converter": false,
+          "obsidian-camera:Obsidian Camera": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "omnisearch:Omnisearch": false,
+          "notion-like-tables:Create new loom": false
+        }
+      },
+      "active": "dc915b1fee271bc6"
+    },
+    "Book (Simulation)": {
+      "main": {
+        "id": "f8d5c6aa67777601",
+        "type": "split",
+        "children": [
+          {
+            "id": "c714ac7f59a37db1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1028bf2a45a88b78",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "C Programming RoadMap.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "e841c1763e2b7d3a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Books/Table of Contents.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "795e3441a41941b5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df3bb0f639206a49",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Books/Simulation Modelling and Analysis/Basic Simulation Modelling.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ad62275f718ef505",
+        "type": "split",
+        "children": [
+          {
+            "id": "e37171e03386f921",
+            "type": "tabs",
+            "dimension": 19.083969465648856,
+            "children": [
+              {
+                "id": "eb61dee181086693",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "4b82f947f134cb1a",
+            "type": "tabs",
+            "dimension": 48.854961832061065,
+            "children": [
+              {
+                "id": "44f27c26a1ecbd8a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "3588be597d75bd7a",
+            "type": "tabs",
+            "dimension": 32.06106870229007,
+            "children": [
+              {
+                "id": "5f7caf0d862ec2ba",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 294.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "e2955500816bf9db",
+        "type": "split",
+        "children": [
+          {
+            "id": "9e7437c8dd9a76a9",
+            "type": "tabs",
+            "dimension": 19.79553903345725,
+            "children": [
+              {
+                "id": "c4d752339eb60f5d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Books/Simulation Modelling and Analysis/Basic Simulation Modelling.md"
+                  }
+                }
+              },
+              {
+                "id": "f8f5295910522eb2",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "36bd6d5637edb5d8",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "6f67fde3c7d5c209",
+            "type": "tabs",
+            "dimension": 18.587360594795538,
+            "children": [
+              {
+                "id": "57b921038bff687f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Books/Simulation Modelling and Analysis/Basic Simulation Modelling.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "84657b54149a7b93",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Books/Simulation Modelling and Analysis/Basic Simulation Modelling.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "589ce6ae17f55df5",
+            "type": "tabs",
+            "dimension": 32.15613382899628,
+            "children": [
+              {
+                "id": "ad43f1fd6f6a37a1",
+                "type": "leaf",
+                "state": {
+                  "type": "dictionary-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "988950fc9b980f1c",
+            "type": "tabs",
+            "dimension": 29.46096654275093,
+            "children": [
+              {
+                "id": "217a8e1535104451",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Books/Simulation Modelling and Analysis/Basic Simulation Modelling.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": -2,
+                      "nodeSizeMultiplier": 0.814583333333333,
+                      "lineSizeMultiplier": 1.22291666666667,
+                      "collapse-forces": true,
+                      "centerStrength": 0.458333333333333,
+                      "repelStrength": 14.0625,
+                      "linkStrength": 1,
+                      "linkDistance": 79,
+                      "scale": 0.7665148249483137,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 349.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "markdown-importer:Open format converter": false,
+          "obsidian-camera:Obsidian Camera": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "omnisearch:Omnisearch": false,
+          "notion-like-tables:Create new loom": false,
+          "code-files:Create Code File": false
+        }
+      },
+      "active": "df3bb0f639206a49"
     }
   },
-  "active": "Full Screen Screen 2"
+  "active": "Book (Simulation)"
 }

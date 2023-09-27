@@ -1,3 +1,13 @@
+---
+tags:
+- dailynote
+---
+
+---
+tags:
+- ^1
+---
+
 
 # Daily Note for 02-Aug '23
 

@@ -1,3 +1,26 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20230508220632.png'
+- '[Intel'
+- '[Intel Arc GPU|Arc Series'
+- '[GPU|GPUs'
+- '[Apple'
+- '[M1 Pro'
+- '[M1 Max'
+- '[M1 Ultra'
+- '[Intel Xeons'
+- '[CPU|CPUs'
+- '[Call Depth Tracking'
+- '[Pasted image 20230508221619.png'
+- '[Pasted image 20230508221726.png'
+- '[Pasted image 20230508221816.png'
+- '[Pasted image 20230508223019.png'
+---
+
 # Core
 
 ![[Pasted image 20230508220632.png]]

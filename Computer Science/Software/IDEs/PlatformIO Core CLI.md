@@ -1,3 +1,31 @@
+---
+tags:
+- librarymanager
+- ldf
+---
+
+---
+tags:
+- ^1
+- ^2
+- '[integrated development environment|IDEs'
+- '[Computer Science/Languages/Python'
+- ^3
+- '[Microsoft Windows'
+- '[macOS'
+- '[Linux'
+- '[FreeBSD'
+- '[ARM'
+- '[Raspberry Pi'
+- '[BeagleBone'
+- '[CubieBoard'
+- '[Samsung'
+- '[ARTIK'
+- ^1
+- ^2
+- ^3
+---
+
 # Introduction
 
 ## PlatformIO Core (CLI)

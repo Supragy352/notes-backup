@@ -1,3 +1,20 @@
+---
+tags:
+- todo
+- dl
+- dailynote
+---
+
+---
+tags:
+- ' '
+- ' '
+- ' '
+- ' '
+- ' '
+- ^1
+---
+
 
 # Daily Note for 03-May '23
 #todo

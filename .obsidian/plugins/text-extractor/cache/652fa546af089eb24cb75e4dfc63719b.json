@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/652fa546af089eb24cb75e4dfc63719b.json","text":"ASM CODE ADDI R3, R31, 0 JAL R31, PUSH ADDI R4, RO, 2 BLT RL, R4, RET ADD R3, RO, R1 JAL R31, PUSH ADDI RL, RL, -1 JAL R31, FAB JAL R31, POP","libVersion":"0.2.2","langs":"eng"}

@@ -1,7 +1,6 @@
 [
   "calendar",
   "obsidian-mind-map",
-  "obsidian-tabs",
   "table-editor-obsidian",
   "better-word-count",
   "cm-editor-syntax-highlight-obsidian",
@@ -10,10 +9,8 @@
   "obsidian-camera",
   "cm-typewriter-scroll-obsidian",
   "obsidian-kanban",
-  "obsidian-annotator",
   "obsidian-excalidraw-plugin",
   "link-exploder",
-  "notion-like-tables",
   "omnisearch",
   "optimize-canvas-connections",
   "obsidian-icons-plugin",
@@ -21,5 +18,8 @@
   "obsidian-banners",
   "obsidian-git",
   "obsidian-wikipedia",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "code-files",
+  "obsidian-projects",
+  "text-extractor"
 ]

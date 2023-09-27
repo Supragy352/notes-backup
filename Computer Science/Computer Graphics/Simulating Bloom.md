@@ -1,3 +1,48 @@
+---
+tags:
+- f2c23d
+- f2c23d
+- f2c23d
+- f2c23d
+- f2c23d
+- cpp
+- gamedev
+- C
+- simulation
+- youtube
+- random
+---
+
+---
+tags:
+- AngeTheGreat
+- GitHub
+- '[Pasted image 20220817192947.png'
+- Charge Couple Devices
+- '[Pasted image 20220817193247.png'
+- '[Fraunhofer Diffraction'
+- ^1
+- '[Fourier Transform'
+- '[Fourier Transform'
+- A(x', y')
+- '[Fourier Transform'
+- ^2
+- '[Fast Fourier Transform|FFS'
+- '[Pasted image 20220818062208.png'
+- '[Animation.gif'
+- '[Pasted image 20220818063247.png'
+- '[Pasted image 20220818063510.png'
+- '[Pasted image 20220818063601.png'
+- '[Pasted image 20220818063623.png'
+- '[SingleSlit.gif'
+- '[DoubleSlit.gif'
+- '[DoubleSlitSmall.gif'
+- '[Pasted image 20220818064816.png'
+- '[Pasted image 20220818132053.png'
+- ^1
+- ^2
+---
+
 <span style="color: #f2c23d;">Name of Video:</span>  What is bloom? (And how is it simulated?)
 <span style="color: #f2c23d;">Link: </span> https://youtu.be/QWqb5Gewbx8
 <span style="color: #f2c23d;">Author: </span> [AngeTheGreat](https://www.youtube.com/channel/UCV0t1y4h_6-2SqEpXBXgwFQ) [GitHub](https://github.com/ange-yaghi)

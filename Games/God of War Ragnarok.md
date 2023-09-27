@@ -1,3 +1,11 @@
+---
+tags: []
+---
+
+---
+tags: []
+---
+
 ### New Game Plus Mode
 - A lot of added features
 - New Armor Sets

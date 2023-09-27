@@ -1,3 +1,11 @@
+---
+tags: []
+---
+
+---
+tags: []
+---
+
 I am so haunted by the ghosts of my past
 Sabotaging everything I have so it never lasts
 Letting my fears get the better of me

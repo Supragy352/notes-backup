@@ -1,3 +1,12 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20220904075947.png'
+---
+
 # Torrents
 Internet Protocol for peer-to-peer file sharing made by Bram Cohen, a CS Grad from University of Buffalo. 
 

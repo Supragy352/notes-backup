@@ -1,3 +1,14 @@
+---
+tags: []
+---
+
+---
+tags:
+- Website
+- '[Pasted image 20230525104553.png'
+- '[Pasted image 20230525105133.png'
+---
+
 # Mods and Guns
 
 ## Reelism Mod

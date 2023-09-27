@@ -1,4 +1,13 @@
 ---
+tags: []
+---
+
+---
+tags:
+- '[Pasted image 20230715155753.png'
+---
+
+---
 banner: "![[Pasted image 20230715155753.png]]"
 banner_y: 0.672
 banner_x: 0.5

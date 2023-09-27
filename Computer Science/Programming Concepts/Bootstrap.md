@@ -1,3 +1,13 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Bootstrap (framework) |Bootstrap'
+- '[computer science'
+---
+
 # Bootstrap (technique)
 ---
 ##### Not to be confused with [[Bootstrap (framework) |Bootstrap]]

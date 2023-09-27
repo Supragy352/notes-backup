@@ -1,3 +1,21 @@
+---
+tags:
+- todo
+- dl
+- dailynote
+---
+
+---
+tags:
+- ' '
+- ' '
+- ' '
+- ' '
+- x
+- '[Raylib Showcase'
+- ^1
+---
+
 
 # Daily Note for 05-Jul '23
 #todo

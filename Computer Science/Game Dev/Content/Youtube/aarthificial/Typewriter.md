@@ -1,3 +1,13 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[AI - Driven Dynamic Dialogue through Fuzzy Pattern Matching|dynamic dialogues'
+- '[Pasted image 20230508174951.png'
+---
+
 YT Video from Aarthificial
 
 <iframe src="https://www.youtube.com/embed/1LlF5p5Od6A?list=PLh0j6fxciWbLLRtBC4dvn0TWEgHxDkWww" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>

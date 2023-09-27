@@ -1,3 +1,21 @@
+---
+tags: []
+---
+
+---
+tags:
+- '!infobox|lright'
+- '[Sublime_Text_3_logo.png|center'
+- ^1
+- '[Cross-Platform| cross-platform'
+- '[Programming Language|programming languages'
+- '[Markup Language |markup languages'
+- '[Computer Science/Languages/Python'
+- '[Application Programming Interface|API'
+- official site
+- '[integrated development environment|IDE'
+---
+
 # Sublime Text
 
 > [!infobox|lright]

@@ -1,3 +1,47 @@
+---
+tags:
+- Behavioural
+- Static
+- f2c23d
+- f2c23d
+- f2c23d
+- '2'
+- f2c23d
+- f2c23d
+- f2c23d
+- game
+- gamedev
+- sebastianlague
+- csharp
+- YTSLGD
+- E2
+- f2c23d
+- Behavioural
+- f2c23d
+- Static
+---
+
+---
+tags:
+- '[Sebastian Lague'
+- '[Class|class'
+- '[Inheritance|inheritance'
+- '[Composition|composition.'
+- '[Inheritance'
+- '[Composition'
+- '[#Behavioural Components|>'
+- '[#Static Classes|>'
+- '[Unity|Unity''s'
+- '[MonoBehaviour|MonoBehaviour Class'
+- '[Instance|instance'
+- '[Instance|instance variables'
+- '[Class|class variable'
+- '[Pasted image 20220425061946.png'
+- '[Class|Utility Classes'
+- '[GameDevYTSL1|<<'
+- '[GameDevYTSL3|>>'
+---
+
 <span style="color: #f2c23d;">Type:</span> YouTube Video Playlist
 <span style="color: #f2c23d;">Name of Playlist:</span> Introduction to Game Development (Unity and C#)
 <span style="color: #f2c23d;">Video: </span>Video#2, E2

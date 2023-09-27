@@ -1,3 +1,26 @@
+---
+tags:
+- todo
+- dailynote
+---
+
+---
+tags:
+- ' '
+- ' '
+- x
+- ' '
+- ' '
+- Instagram
+- x
+- '[God-Tier Development Roadmap|Note'
+- ' '
+- x
+- Manga G Pen Nib
+- '[G Pen Nib|Note'
+- ^1
+---
+
 # Daily Note for 31-Aug '22
 #todo
 - [ ] Maths
@@ -6,7 +29,7 @@
 - [ ] Physics
 	- [ ] [Instagram](https://www.instagram.com/physics.infographics/)
 - [x] Code
-	- Youtube Video by Fireship on Programming Languages (God Tier Roadmap) [[God-Tier Development Roadmap|Note]]
+	- Youtube Video by Fireship on Programming Languages (God Tier Roadmap) [[Science|Note]]
 - [ ] Sanskrit
 - [x] Surfing
 	- Youtube Video on [Manga G Pen Nib](https://www.youtube.com/watch?v=jxpE2v6XudA) by Chroma Moma. [[G Pen Nib|Note]]

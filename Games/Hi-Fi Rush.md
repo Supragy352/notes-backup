@@ -1,3 +1,11 @@
+---
+tags: []
+---
+
+---
+tags: []
+---
+
 ### Harder Levels
 - After you beat the game, Rhythm Master unlocks
 - Perfect hit everytime

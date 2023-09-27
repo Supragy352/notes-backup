@@ -1,37 +1,37 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "tag:#gamedev",
-      "color": {
-        "a": 1,
-        "rgb": 65331
-      }
-    },
     {
       "query": "tag:#dailynote",
       "color": {
         "a": 1,
-        "rgb": 16716820
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#YTSLGD",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -2.3,
-  "nodeSizeMultiplier": 2.10338541666667,
-  "lineSizeMultiplier": 1.41067708333333,
-  "collapse-forces": false,
-  "centerStrength": 0.223958333333333,
-  "repelStrength": 20,
-  "linkStrength": 0.591145833333333,
-  "linkDistance": 85,
-  "scale": 0.02209284251732712,
-  "close": true
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 0.954947916666667,
+  "lineSizeMultiplier": 1.10807291666667,
+  "collapse-forces": true,
+  "centerStrength": 0.4453125,
+  "repelStrength": 10.78125,
+  "linkStrength": 1,
+  "linkDistance": 247,
+  "scale": 0.09248815955110715,
+  "close": false
 }

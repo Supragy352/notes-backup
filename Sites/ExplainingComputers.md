@@ -1,3 +1,19 @@
+---
+tags:
+- computerscience
+- site
+- knowledge
+---
+
+---
+tags:
+- '[Christopher Barnatt'
+- ^1
+- Homepage
+- YouTube
+- ^1
+---
+
 Explaining Computers is a website that does what is says, explaining computers. Its author is [[Christopher Barnatt]]. It primarily supports to YouTube channel Explaining Computers. He does videos about Computer Science and SBC technology. One of his periodic videos is the Quantum Computers Update[^1] for every year. 
 
 

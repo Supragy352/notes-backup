@@ -1,3 +1,24 @@
+---
+tags:
+- f2c23d
+- f2c23d
+- f2c23d
+- f2c23d
+- f2c23d
+- mind
+- learning
+- youtube
+- random
+---
+
+---
+tags:
+- '[Colin Galen'
+- '[Computer Science/Languages/Python'
+- '[C++'
+- '[Fenwick Tree | Fenwick/Binary Indexed Trees'
+---
+
 <span style="color: #f2c23d;">Name of Video:</span> The Black Box Method: How to Learn Hard Concepts Quickly
 <span style="color: #f2c23d;">Link: </span> https://www.youtube.com/watch?v=RDzsrmMl48I
 <span style="color: #f2c23d;">Author: </span> [[Colin Galen]]

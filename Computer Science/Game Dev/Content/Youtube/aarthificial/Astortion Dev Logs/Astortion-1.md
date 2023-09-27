@@ -1,3 +1,15 @@
+---
+tags: []
+---
+
+---
+tags:
+- '[Game Engine'
+- '[Unity Engine|Unity'
+- '[Pasted image 20230510082424.png'
+- '[Astortion-2|Next ->'
+---
+
 # Idea
 1. A device that can attract objects towards you and unlock your way forward
 2. Player would be a physics object, so that they would be attracted **back**.

@@ -1,3 +1,12 @@
+---
+tags: []
+---
+
+---
+tags:
+- aarthificial's
+---
+
 ## ABOUT
 About Section of [aarthificial's](https://www.youtube.com/@aarthificial) Youtube Channel:
 Hi, my name's Jacob. I make concise videos about the technical side of game development. I'm currently working on my own game: Astortion. It's a minimalistic, atmospheric puzzle-platformer that revolves around gravity. 

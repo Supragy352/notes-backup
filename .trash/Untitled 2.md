@@ -1,3 +1,11 @@
+---
+tags: []
+---
+
+---
+tags: []
+---
+
 We all make mistakes as teenagers, but what is important is that we learn and grow from them. I'm not saying that Kaison kissing Chelsea was right because it was not. No excuse would justify that. But he realized his mistake and he has grown. He would never cheat again.
 
 This thing he has going on with Chelsea right now is purely out of guilt. He never encouraged her to fall in love with him. He always kept his distance. He just felt responsible for worsening her state, even if a little. Chelsea exploited that. He finally realized it and is putting an end to that.

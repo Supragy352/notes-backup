@@ -6,7 +6,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "spellcheckLanguages": null,
   "showUnsupportedFiles": true,
   "readableLineLength": false

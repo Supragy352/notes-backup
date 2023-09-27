@@ -1,3 +1,30 @@
+---
+tags:
+- todo
+- dailynote
+- maths
+- german
+- physics
+- code
+- sanskrit
+- chemistry
+---
+
+---
+tags:
+- ' '
+- ' '
+- ' '
+- ' '
+- ' '
+- Instagram
+- ' '
+- ' '
+- ' '
+- ' '
+- ^1
+---
+
 # Daily Note for 02-Nov '22
 #todo
 - [ ] Maths

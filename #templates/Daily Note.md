@@ -1,3 +1,13 @@
+---
+tags:
+- dailynote
+---
+
+---
+tags:
+- ^1
+---
+
 
 # Daily Note for {{date:DD-MMM 'YY}}
 

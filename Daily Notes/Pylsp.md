@@ -1,3 +1,55 @@
+---
+tags:
+- configuration
+- installation
+---
+
+---
+tags:
+- '![image'
+- '![image'
+- '![image'
+- '![image'
+- Language Server Protocol
+- Jedi
+- Rope
+- Pyflakes
+- McCabe
+- pycodestyle
+- pydocstyle
+- autopep8
+- YAPF
+- flake8
+- pylint
+- YAPF
+- yapf
+- all
+- pylsp-mypy
+- MyPy
+- pyls-isort
+- isort
+- python-lsp-black
+- Black
+- pyls-memestra
+- pylsp-rope
+- Rope
+- python-lsp-ruff
+- ruff
+- cookiecutter-pylsp-plugin
+- cookiecutter
+- '`CONFIGURATION.md`'
+- '''flake8'''
+- flake8 configuration
+- pycodestyle configuration
+- pycodestyle
+- port
+- websockets
+- Websockets installation
+- websockets
+- Autoimport
+- test
+---
+
 
 # **Python LSP Server**
 ---

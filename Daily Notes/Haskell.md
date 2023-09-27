@@ -1,4 +1,33 @@
 ---
+tags:
+- Static
+- Functional
+- Static
+- Functional
+---
+
+---
+tags:
+- '[Pasted image 20230615193956.png'
+- '[Programming Types#Static Typing|statically typed'
+- '[Programming Paradigms#Functional Programming|functional programming language'
+- '[lambda calculus'
+- '[Pasted image 20230615194208.png|center|640x480'
+- '[ELM'
+- '[Purescript'
+- '[MONAD'
+- '[lazy evaluation'
+- Glasgow Haskell Compiler
+- ^1
+- ^2
+- Char
+- ^3
+- ^1
+- ^2
+- ^3
+---
+
+---
 banner: "![[Pasted image 20230615193956.png]]"
 banner_y: 0.576
 ---

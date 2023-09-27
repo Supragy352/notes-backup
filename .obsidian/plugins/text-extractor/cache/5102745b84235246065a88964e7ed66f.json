@@ -1,0 +1,1 @@
+{"path":".obsidian/plugins/text-extractor/cache/5102745b84235246065a88964e7ed66f.json","text":"@ app.py > .. 1 print('hi mom!\") 2 3 n = int(input(‘Type a number')) 4 5 if n < 0: 6 raise ValueError('You must enter a non-negative [ ] 7 8 factorial = 1 , 9 for i in range(2, n + 1): 10 factorial *= i dlal, 12 print(factorial) ilss )","libVersion":"0.2.2","langs":"eng"}
